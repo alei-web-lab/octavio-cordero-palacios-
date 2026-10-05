@@ -1,0 +1,10 @@
+import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+import {mkdir} from 'node:fs/promises';
+const root=path.resolve(fileURLToPath(new URL('..',import.meta.url)));
+const require=createRequire(path.join(root,'motion','package.json'));
+const {build}=require('esbuild');
+await mkdir(path.join(root,'public','ui'),{recursive:true});
+await build({entryPoints:{site:path.join(root,'ui','site.jsx'),cms:path.join(root,'ui','cms.jsx')},outdir:path.join(root,'public','ui'),bundle:true,minify:true,splitting:true,format:'esm',platform:'browser',target:['es2020'],jsx:'automatic',nodePaths:[path.join(root,'motion','node_modules')],define:{'process.env.NODE_ENV':'"production"'},legalComments:'eof'});
+console.log('Componentes React preparados en public/ui/.');

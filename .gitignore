@@ -1,0 +1,15 @@
+dist/
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+# Información y evidencia privadas de este equipo.
+docs/
+cms/
+.impeccable/
+.cms-test-*/

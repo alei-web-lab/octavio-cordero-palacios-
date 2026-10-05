@@ -1,0 +1,55 @@
+import assert from 'node:assert/strict';
+import http from 'node:http';
+import {readFile,writeFile,mkdir,rm,readdir,realpath} from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {randomUUID} from 'node:crypto';
+import {createCmsApi} from './cms-api.mjs';
+import {defaultContent} from '../src/default-content.js';
+const root=await realpath(fileURLToPath(new URL('..',import.meta.url)));
+const fixture=path.join(root,`.cms-test-${randomUUID()}`);
+await mkdir(path.join(fixture,'public','content'),{recursive:true});
+await writeFile(path.join(fixture,'public','content','site.json'),JSON.stringify(defaultContent));
+let handle;
+const server=http.createServer((request,response)=>handle(request,response,request.url));
+await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+const port=server.address().port,origin=`http://127.0.0.1:${port}`;
+handle=createCmsApi(fixture,port);
+const call=async(route,method='GET',data,token,headers={})=>{
+  const response=await fetch(origin+route,{method,headers:{...(data?{'Content-Type':'application/json',Origin:origin,'X-CMS-Token':token||''}:{}),...headers},body:data?JSON.stringify(data):undefined});
+  return {status:response.status,data:await response.json()};
+};
+try {
+  let state=(await call('/api/cms/state')).data;
+  const draft=structuredClone(state.draft);draft.copy.heroDescription='Borrador de prueba aislado.';
+  const payload=()=>({content:draft,revision:state.revision,draftRevision:state.draftRevision});
+  assert.equal((await call('/api/cms/draft','PUT',payload())).status,403,'Las escrituras sin token deben rechazarse');
+  assert.equal((await call('/api/cms/draft','PUT',payload(),'ñ'.repeat(64))).status,403,'Un token no ASCII debe rechazarse sin escapar del manejo de errores');
+  assert.equal((await call('/api/cms/state')).status,200,'El servidor debe seguir respondiendo tras rechazar un token inválido');
+  assert.equal((await call('/api/cms/draft','PUT',payload(),state.csrfToken,{Origin:'https://externo.example'})).status,403,'Origen externo rechazado');
+  assert.equal((await call('/api/cms/state','GET',undefined,undefined,{'Sec-Fetch-Site':'cross-site'})).status,403,'Lectura entre sitios rechazada');
+  const invalid=structuredClone(draft);invalid.photos[0].src='/images/azuay-paisaje.webp';
+  assert.equal((await call('/api/cms/draft','PUT',{...payload(),content:invalid},state.csrfToken)).status,422,'Busa no debe aceptarse');
+  invalid.photos=draft.photos;invalid.members.pop();
+  assert.equal((await call('/api/cms/draft','PUT',{...payload(),content:invalid},state.csrfToken)).status,422,'Equipo incompleto rechazado');
+  const saved=await call('/api/cms/draft','PUT',payload(),state.csrfToken);assert.equal(saved.status,200);state=saved.data;
+  assert.equal(JSON.parse(await readFile(path.join(fixture,'public','content','site.json'),'utf8')).copy.heroDescription,defaultContent.copy.heroDescription,'Guardar borrador no debe cambiar el sitio');
+  handle=createCmsApi(fixture,port);state=(await call('/api/cms/state')).data;
+  assert.equal(state.draft.copy.heroDescription,draft.copy.heroDescription,'Borrador persistente tras recrear el servidor');
+  const stale=payload();
+  const published=await call('/api/cms/publish','POST',payload(),state.csrfToken);assert.equal(published.status,200);state=published.data;
+  assert.equal(JSON.parse(await readFile(path.join(fixture,'public','content','site.json'),'utf8')).copy.heroDescription,draft.copy.heroDescription,'Aplicar debe persistir la versión visible');
+  assert.equal((await readdir(path.join(fixture,'cms','backups'))).length,1,'Debe conservarse respaldo');
+  assert.equal((await call('/api/cms/publish','POST',stale,state.csrfToken)).status,409,'Revisión anterior rechazada');
+  const fakeImage=Buffer.from('<html>archivo falso</html>').toString('base64');
+  assert.equal((await call('/api/cms/upload','POST',{kind:'image',data:fakeImage},state.csrfToken)).status,422,'HTML no debe pasar por imagen');
+  const image=await readFile(path.join(root,'public','images','octavio-casas-480.webp'));
+  const uploaded=await call('/api/cms/upload','POST',{kind:'image',data:image.toString('base64')},state.csrfToken);assert.equal(uploaded.status,201);
+  assert.deepEqual(await readFile(path.join(fixture,'public',uploaded.data.url.slice(1))),image,'La imagen debe persistir sin alteración');
+  console.log('CMS: borrador/publicación, persistencia, respaldo, conflictos, origen/token, equipo, Busa y carga de archivos verificados.');
+} finally {
+  await new Promise(resolve=>server.close(resolve));
+  const resolved=await realpath(fixture);
+  if(path.dirname(resolved)!==root||!path.basename(resolved).startsWith('.cms-test-'))throw new Error('Carpeta de prueba fuera del workspace.');
+  await rm(resolved,{recursive:true,force:true});
+}

@@ -1,0 +1,11 @@
+export const copyGroups = {
+  inicio:[['heroDescription','Descripción'],['heroPrimary','Botón del plan'],['heroSecondary','Botón del equipo'],['heroLocation','Ubicación'],['guideIntro','Texto del acceso rápido'],['guideTeam','Acceso al equipo'],['guidePlan','Acceso al plan'],['guideContact','Acceso a contacto']],
+  movimiento:[['movementTitle','Título'],['movementLead','Presentación'],['movementBody','Descripción'],['movementNote','Aviso de contenido pendiente'],['movementLink','Enlace al plan'],['discoveryTitle','Título del explorador'],['discoveryText','Instrucción del explorador']],
+  plan:[['planTitle','Título'],['planDescription','Descripción'],['planPeriod','Período'],['planNote','Nota del documento'],['planFootnote','Nota al pie'],['planPrint','Botón de impresión'],['planSearch','Etiqueta de búsqueda']],
+  equipo:[['teamTitle','Título'],['teamDescription','Descripción'],['teamNote','Aviso de fotografías'],['profileButton','Botón del perfil'],['portraitPending','Imagen pendiente'],['profilePending','Trayectoria pendiente']],
+  parroquia:[['galleryTitle','Título'],['galleryDescription','Descripción'],['galleryFootnote','Instrucción de la galería'],['creditsButton','Botón de créditos']],
+  contacto:[['contactTitle','Título'],['contactDescription','Descripción'],['contactPending','Canales pendientes'],['socialPending','Redes pendientes'],['contactLocation','Parroquia'],['contactRegion','Región'],['formTitle','Título del formulario'],['formDescription','Descripción del formulario'],['nameLabel','Etiqueta del nombre'],['emailLabel','Etiqueta del correo'],['topicLabel','Etiqueta del tema'],['messageLabel','Etiqueta del mensaje'],['formPrivacy','Aviso del formulario'],['formButton','Botón del formulario']],
+  preguntas:[['faqTitle','Título']],
+  ajustes:[['preview','Rótulo de vista previa'],['previewNote','Aviso de vista previa'],['footerText','Texto del pie'],['footerTop','Enlace para volver arriba'],['footerNote','Estado del sitio'],['privacyButton','Botón de privacidad'],['privacyText','Texto de privacidad']]
+};
+export const sectionLabels={movimiento:'El movimiento',plan:'Plan de trabajo',equipo:'El equipo',parroquia:'La parroquia',contacto:'Contacto',preguntas:'Preguntas frecuentes'};
