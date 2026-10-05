@@ -1,8 +1,8 @@
 # Renovación 63
 
-Sitio informativo del equipo aspirante al GAD parroquial de Octavio Cordero Palacios, Cuenca, Azuay. Conserva cartel rural y collage, con naranja `#ff5d15` como acento. Incluye seis temas del plan, búsqueda de propuestas, visor de fotografías y CMS local adaptable.
+Sitio informativo del equipo aspirante al GAD parroquial de Octavio Cordero Palacios, Cuenca, Azuay. Conserva cartel rural y collage, con naranja `#ff5d15` como acento. Incluye seis temas del plan, búsqueda de propuestas, visor de fotografías y CMS adaptable en local y Vercel.
 
-**Estado: página pública desplegada en [Vercel](https://octavio-cordero-palacios.vercel.app/); CMS local.** Cuatro correcciones fueron revisadas con disposición `ship`: la puntuación posterior confirma resueltos los hallazgos de interacción/CMS. Esta disposición cubre ese lote, no toda la superficie. El CMS remoto sigue pendiente. El `ship` anterior pertenece únicamente a tres reparaciones históricas de la versión previa.
+**Página pública en [Vercel](https://octavio-cordero-palacios.vercel.app/); CMS en [/admin/](https://octavio-cordero-palacios.vercel.app/admin/).** Se incluye el backend para acceso privado, borradores cifrados y publicación con GitHub + Vercel, sin Supabase. La activación requiere configurar una vez los secretos de producción y verificar el inicio de sesión. [Guía de activación y uso](CMS.md). La revisión visual `ship` anterior cubre cuatro reparaciones históricas de interacción/CMS, no certifica esta conexión nueva.
 
 | Integrante | Rol en el equipo aspirante |
 | --- | --- |
@@ -32,7 +32,9 @@ Elige una sección del CMS, edita, guarda el borrador, revisa la vista previa y 
 | `src/content.js` | Cargador del JSON público o borrador; valida y limpia el contenido. |
 | `src/default-content.js` | Respaldo si el contenido no se puede cargar o validar. |
 
-La API comprueba loopback, host, origen, token y revisión para evitar sobrescrituras desde otro panel. Estas protecciones locales no proporcionan cuentas ni autenticación remota. El usuario confirmó que querrá editar desde el celular cuando se publique: acceso privado, permisos y persistencia duradera en línea siguen pendientes. Un alojamiento estático de `dist/` muestra la página, pero no implementa la API ni el guardado del CMS.
+La API local comprueba loopback, host, origen, token y revisión. En Vercel, `api/cms/[action].js` utiliza sesión privada de 8 horas con cookie HttpOnly/Secure/SameSite Strict, contraseña scrypt y validación de origen/CSRF. Guarda borradores y respaldos cifrados en `.cms-data/`, archivos públicos en `public/uploads/` y contenido publicado en `public/content/site.json`, mediante commits en `main` que conservan los otros archivos. El panel evita sobrescribir una revisión cambiada desde otro dispositivo y consulta el estado Vercel del commit publicado. No escribe en el disco efímero de Vercel ni añade una base de datos.
+
+Las credenciales privadas se preparan con `scripts/configure-cms.mjs`; quedan en `.env.cms.local` y `/cms/acceso-online.txt`, excluidos de Git y del build. El token GitHub debe limitarse a este repositorio: Contents read/write y Commit statuses read-only. Configura los valores como secretos de producción en Vercel y realiza un despliegue nuevo. [Instrucciones completas](CMS.md).
 
 ## Contenido y recursos
 
@@ -56,7 +58,7 @@ El usuario autorizó publicar automáticamente los próximos cambios: después d
 
 Para conectar GitHub con Vercel se preparó `vercel.json`: framework **Other** (`null`), build `npm run build`, salida `dist` e instalación omitida porque los bundles actuales ya están generados. Usa la raíz del repositorio, no `motion/` ni `public/`. Este archivo configura el build; no crea un proyecto ni publica por sí mismo. [Referencia oficial](https://vercel.com/docs/project-configuration/vercel-json).
 
-El `.gitignore` excluye `docs/`, `cms/`, `.impeccable/`, pruebas temporales, dependencias, `dist/` y archivos de entorno. El contenido visible de `public/content/site.json` y los recursos públicos sí se versionan. Tras editar en el CMS y aplicar al sitio local, hay que hacer commit y push a la rama de producción para que la integración Git de Vercel despliegue esos cambios. La API del CMS sigue siendo local.
+El `.gitignore` excluye `docs/`, `/cms/`, `.impeccable/`, pruebas temporales, dependencias, `dist/` y archivos de entorno. `.cms-data/` se versiona únicamente cifrado. El contenido visible y los recursos públicos se versionan. En el CMS local, aplicar requiere después commit/push para publicarse. En el panel en línea, **Publicar** crea ese commit desde el servidor y activa Vercel; **Guardar borrador** conserva intacta la versión pública.
 
 La página combina HTML/CSS y módulos nativos con islas diferidas de React 19.2.3 para descubrimiento, búsqueda/pestañas y visor con `dialog` nativo. El CMS también usa React. Bundles en `public/ui/`; estilos públicos en `src/style.css` y `src/interactive.css`, y del editor en `public/admin/style.css`.
 

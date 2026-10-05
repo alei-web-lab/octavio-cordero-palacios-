@@ -2,7 +2,7 @@
 
 <!-- impeccable:product-schema 1 -->
 
-**Estado: extensión interactiva publicada en [Vercel](https://octavio-cordero-palacios.vercel.app/) y CMS local; lote de cuatro correcciones revisado con disposición `ship`.** La puntuación posterior a la revisión inicial `fix` confirma los cuatro hallazgos resueltos. La disposición cubre ese lote, no toda la superficie. El `ship` anterior cubre solo tres reparaciones históricas. El acceso y la persistencia del CMS remoto siguen pendientes. Los próximos cambios solicitados se comprobarán y subirán a `main` para activar el despliegue automático autorizado por el usuario.
+**Página pública en [Vercel](https://octavio-cordero-palacios.vercel.app/) y CMS adaptable en `/admin/`, con backend GitHub + Vercel sin Supabase.** El acceso remoto se activa al configurar sus secretos de producción; debe verificarse el inicio de sesión antes de darlo por operativo. La revisión visual `ship` anterior se limita al lote histórico de cuatro reparaciones y no certifica esta conexión nueva. Los cambios solicitados se comprueban y suben a `main` para activar el despliegue automático autorizado.
 
 ## Platform
 
@@ -12,7 +12,7 @@ web
 
 HTML, CSS y módulos JavaScript nativos con islas diferidas de React 19.2.3 para descubrimiento, búsqueda/pestañas y visor fotográfico con `dialog` nativo. CMS React con API Node local. Bundles precompilados en `public/ui/` y Player Remotion 4.0.530 en `public/motion/player.js`. Servir o construir esta versión no requiere instalar paquetes. La autoría `ui/*.jsx` usa React y esbuild 0.25.12 existentes en `motion/node_modules`, mediante `npm run build:ui`; Remotion mantiene autoría y tipos en `motion/`.
 
-Servidor en `127.0.0.1:3000`. `npm run build` genera archivos estáticos en `dist/`, sin API ni guardado CMS. Autenticación y persistencia en línea siguen pendientes.
+Servidor local en `127.0.0.1:3000`. `npm run build` genera archivos estáticos en `dist/`; Vercel despliega por separado `api/cms/[action].js` con los módulos nativos de `server/`. La persistencia remota usa el repositorio existente y variables privadas de producción, sin dependencias raíz ni otra base de datos.
 
 ## Users
 
@@ -28,7 +28,9 @@ Sitio adaptable, carrusel con pausa, índice de seis temas, búsqueda de propues
 
 CMS en `/admin/` para portada, movimiento, plan, equipo, parroquia, contacto, preguntas y marca/estructura. Permite guardar borrador, revisar, aplicar al sitio local, importar/exportar JSON, cargar archivos y ordenar/mostrar secciones. Visible en `public/content/site.json`; borrador privado en `cms/draft.json` y respaldos privados en `cms/backups/`. Cargas públicas en `public/uploads/`: JPG/PNG/WebP hasta 8 MB o PDF hasta 12 MB. Loopback, host, origen, token y revisión protegen las operaciones locales; no proporcionan inicio de sesión ni permisos remotos.
 
-`src/content.js` carga y valida el contenido, con `src/default-content.js` como respaldo. La conexión privada al sitio publicado necesitará autenticación, permisos y almacenamiento duradero de contenido y archivos. El diseño del editor ya se adapta a celular; su API solo está disponible en el equipo local.
+En línea, el mismo editor incorpora correo/contraseña, sesión de 8 horas, guardado privado, vista previa y publicación mediante commits en `main`. Los borradores y respaldos se cifran con AES-256-GCM en `.cms-data/`; el contenido público y los archivos se versionan en `public/`. Las escrituras requieren origen, CSRF y revisión vigente. El panel informa el estado Vercel del commit enviado y conserva cambios sin guardar si vence la sesión. La configuración y clave privada quedan fuera de Git y de `dist/`.
+
+`src/content.js` valida el contenido, con `src/default-content.js` como respaldo. La vista previa obtiene el borrador autenticado y muestra un aviso si no puede cargarlo. Las imágenes recién subidas se resuelven a través del panel antes de que termine el despliegue de recursos. El editor se adapta a celular; se verificaron login, borrador, vista previa, publicación simulada y cierre de sesión, con anchos 320, 390, 768 y 1440px. Las pruebas del backend cubren acceso/CSRF, cifrado, respaldo, conflictos, conservación de cambios ajenos y cargas 8/12 MB sin servicios externos. Estas pruebas aisladas no sustituyen la activación y comprobación del acceso de producción.
 
 Se conservan cuatro integrantes y seis IDs de plan: `vialidad`, `produccion`, `inclusion`, `seguridad`, `ambiente` y `gestion`. El lector `public/documents/plan-de-trabajo.html` omite cédulas y nóminas; el original `docs/plan-original.docx` queda privado.
 
@@ -78,4 +80,4 @@ Lighthouse LIGHT 86/100/100/63, LCP 4,2s y TBT 64ms son históricos anteriores a
 
 ## Product Principles
 
-Información clara y comprobable para público general, con prioridad móvil y lectura cómoda. Mantener la identidad confirmada, distinguir lo pendiente y facilitar edición/revisión. Presentar los roles como equipo aspirante sin atribuir funciones institucionales actuales. Documentar implementación y límites con precisión. El acceso privado móvil en línea pertenece a la etapa de publicación, todavía pendiente.
+Información clara y comprobable para público general, con prioridad móvil y lectura cómoda. Mantener la identidad confirmada, distinguir lo pendiente y facilitar edición/revisión. Presentar los roles como equipo aspirante sin atribuir funciones institucionales actuales. Documentar implementación y límites con precisión. El CMS remoto requiere secretos de producción y verificación del acceso real; conservar una copia segura de su clave de cifrado.

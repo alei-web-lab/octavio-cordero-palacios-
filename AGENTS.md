@@ -28,6 +28,10 @@ Después del push, comprobar el estado Vercel del commit exacto en GitHub o el d
 
 Mantener las exclusiones de `.gitignore`: dependencias, `dist/`, variables de entorno, documentos originales privados, borradores, respaldos y evidencia local. No subir credenciales ni datos privados.
 
-El CMS actual es local. Guardar un borrador no publica contenido. Aplicar al sitio local modifica `public/content/site.json`; ese cambio necesita commit y push para llegar a Vercel. La publicación estática no proporciona autenticación ni persistencia remota para el CMS.
+El CMS comparte el panel `/admin/` entre local y Vercel. En local usa `scripts/cms-api.mjs` y archivos privados en `/cms/`; aplicar modifica `public/content/site.json` y requiere commit/push. En Vercel usa `api/cms/[action].js` y `server/`, con correo/contraseña, sesión segura y variables privadas. Su publicación remota guarda un commit en `main` mediante un token de GitHub limitado al repositorio y activa la integración Git existente. No añadir Supabase: el usuario pidió prescindir de él.
+
+Los borradores y respaldos remotos de `.cms-data/` se versionan solo cifrados; nunca incluir JSON privado sin cifrar. Conservar `CMS_SECRET` en el gestor de secretos y su copia local privada: cambiarla sin migración impide leer los borradores y respaldos anteriores. `.env.cms.local` y `/cms/acceso-online.txt` quedan excluidos del repositorio y del build. No imprimir sus valores. La activación remota requiere configurar las variables de producción; no afirmar que el CMS funciona en línea antes de verificar el inicio de sesión y su API.
+
+Tras cambios del backend ejecutar `node scripts/test-cms-online.mjs`; tras cambios compartidos con el CMS local ejecutar también `node scripts/test-cms.mjs`. Las pruebas usan datos aislados sin publicar contenido real. Comprobar el login y la API del despliegue exacto además de la página pública.
 
 Conservar la identidad Renovación 63, sus cuatro integrantes y las fotografías verificadas de Octavio Cordero Palacios. No reintroducir la fotografía de Busa. Mantener `preview: true` y `noindex, nofollow` mientras el contenido siga en preparación; no cambiar ese estado solamente por estar alojado en Vercel.

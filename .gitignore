@@ -10,6 +10,6 @@ Thumbs.db
 
 # Información y evidencia privadas de este equipo.
 docs/
-cms/
+/cms/
 .impeccable/
 .cms-test-*/
