@@ -2,7 +2,7 @@
 
 <!-- impeccable:product-schema 1 -->
 
-**Estado: extensión interactiva y CMS en vista local; lote de cuatro correcciones revisado con disposición `ship`.** La puntuación posterior a la revisión inicial `fix` confirma los cuatro hallazgos resueltos. La disposición cubre ese lote, no toda la superficie. El `ship` anterior cubre solo tres reparaciones históricas. No hay despliegue.
+**Estado: extensión interactiva publicada en [Vercel](https://octavio-cordero-palacios.vercel.app/) y CMS local; lote de cuatro correcciones revisado con disposición `ship`.** La puntuación posterior a la revisión inicial `fix` confirma los cuatro hallazgos resueltos. La disposición cubre ese lote, no toda la superficie. El `ship` anterior cubre solo tres reparaciones históricas. El acceso y la persistencia del CMS remoto siguen pendientes. Los próximos cambios solicitados se comprobarán y subirán a `main` para activar el despliegue automático autorizado por el usuario.
 
 ## Platform
 

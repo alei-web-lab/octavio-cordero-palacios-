@@ -2,7 +2,7 @@
 
 Sitio informativo del equipo aspirante al GAD parroquial de Octavio Cordero Palacios, Cuenca, Azuay. Conserva cartel rural y collage, con naranja `#ff5d15` como acento. Incluye seis temas del plan, búsqueda de propuestas, visor de fotografías y CMS local adaptable.
 
-**Estado: vista local; cuatro correcciones revisadas con disposición `ship`.** La revisión inicial de interacción/CMS señaló cuatro hallazgos; la puntuación posterior los confirma resueltos. Esta disposición cubre ese lote, no toda la superficie. No hay despliegue ni CMS remoto. El `ship` anterior pertenece únicamente a tres reparaciones históricas de la versión previa.
+**Estado: página pública desplegada en [Vercel](https://octavio-cordero-palacios.vercel.app/); CMS local.** Cuatro correcciones fueron revisadas con disposición `ship`: la puntuación posterior confirma resueltos los hallazgos de interacción/CMS. Esta disposición cubre ese lote, no toda la superficie. El CMS remoto sigue pendiente. El `ship` anterior pertenece únicamente a tres reparaciones históricas de la versión previa.
 
 | Integrante | Rol en el equipo aspirante |
 | --- | --- |
@@ -49,6 +49,10 @@ El formulario público no guarda ni envía consultas. Con correo configurado pre
 Mantén `preview: true` mientras el contenido esté en preparación. Ocultar avisos no completa ni valida campos. `index.html` conserva `noindex, nofollow`, ajuste independiente que se revisará al publicar.
 
 ## Código y construcción
+
+Repositorio: [alei-web-lab/octavio-cordero-palacios-](https://github.com/alei-web-lab/octavio-cordero-palacios-). Sitio de producción: [octavio-cordero-palacios.vercel.app](https://octavio-cordero-palacios.vercel.app/). El primer commit tiene un estado Vercel satisfactorio en GitHub y la página responde HTTP 200.
+
+El usuario autorizó publicar automáticamente los próximos cambios: después de comprobarlos, hacer commit y push a `main`, esperar el estado del despliegue del commit exacto y verificar la URL pública. Las instrucciones persistentes están en [AGENTS.md](AGENTS.md). La integración Git de Vercel ejecuta el despliegue; guardar un archivo o un borrador local no lo activa por sí solo. [Documentación de la integración Git](https://vercel.com/docs/git).
 
 Para conectar GitHub con Vercel se preparó `vercel.json`: framework **Other** (`null`), build `npm run build`, salida `dist` e instalación omitida porque los bundles actuales ya están generados. Usa la raíz del repositorio, no `motion/` ni `public/`. Este archivo configura el build; no crea un proyecto ni publica por sí mismo. [Referencia oficial](https://vercel.com/docs/project-configuration/vercel-json).
 
