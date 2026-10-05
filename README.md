@@ -2,7 +2,7 @@
 
 Sitio informativo del equipo aspirante al GAD parroquial de Octavio Cordero Palacios, Cuenca, Azuay. Conserva cartel rural y collage, con naranja `#ff5d15` como acento. Incluye seis temas del plan, búsqueda de propuestas, visor de fotografías y CMS adaptable en local y Vercel.
 
-**Página pública en [Vercel](https://octavio-cordero-palacios.vercel.app/); CMS en [/admin/](https://octavio-cordero-palacios.vercel.app/admin/).** Se incluye el backend para acceso privado, borradores cifrados y publicación con GitHub + Vercel, sin Supabase. La activación requiere configurar una vez los secretos de producción y verificar el inicio de sesión. [Guía de activación y uso](CMS.md). La revisión visual `ship` anterior cubre cuatro reparaciones históricas de interacción/CMS, no certifica esta conexión nueva.
+**Página y CMS activos en Vercel; editor en [/admin/](https://octavio-cordero-palacios.vercel.app/admin/).** El 5 de octubre de 2026 se configuraron los secretos de producción y se verificaron acceso privado, borrador/vista previa, publicación y cierre de sesión contra el repositorio real, conservando los valores del contenido público. El guardado utiliza GitHub + Vercel, sin Supabase. [Guía de activación y uso](CMS.md), también para reinstalaciones. La revisión visual `ship` anterior cubre cuatro reparaciones históricas de interacción/CMS, no certifica esta conexión nueva.
 
 | Integrante | Rol en el equipo aspirante |
 | --- | --- |

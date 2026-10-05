@@ -2,7 +2,7 @@
 
 <!-- impeccable:product-schema 1 -->
 
-**Página pública en [Vercel](https://octavio-cordero-palacios.vercel.app/) y CMS adaptable en `/admin/`, con backend GitHub + Vercel sin Supabase.** El acceso remoto se activa al configurar sus secretos de producción; debe verificarse el inicio de sesión antes de darlo por operativo. La revisión visual `ship` anterior se limita al lote histórico de cuatro reparaciones y no certifica esta conexión nueva. Los cambios solicitados se comprueban y suben a `main` para activar el despliegue automático autorizado.
+**Página y CMS activos en [Vercel](https://octavio-cordero-palacios.vercel.app/), con editor adaptable en `/admin/` y backend GitHub + Vercel sin Supabase.** El 5 de octubre de 2026 se configuraron los secretos y se verificaron inicio de sesión, guardado/vista previa, publicación y cierre de sesión en producción, manteniendo los valores públicos. Las páginas responden 200 y la API anónima 401. La revisión visual `ship` anterior se limita al lote histórico de cuatro reparaciones y no certifica esta conexión nueva. Los cambios solicitados se comprueban y suben a `main` para activar el despliegue automático autorizado.
 
 ## Platform
 
