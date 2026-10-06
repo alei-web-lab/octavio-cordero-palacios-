@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24mm" height="24mm" viewBox="0 0 24 24">
+<title>Tabler community</title>
+<desc>Vectores reales. Letras convertidas a curvas. Colores RGB de referencia; consultar el informe CMYK para imprenta.</desc>
+<path d="M10.0 13.0C10.0 14.104569499661586 10.895430500338414 15.0 12.0 15.0C13.104569499661586 15.0 14.0 14.104569499661586 14.0 13.0C14.0 11.895430500338414 13.104569499661586 11.0 12.0 11.0C10.895430500338414 11.0 10.0 11.895430500338414 10.0 13.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.0 21.0V20.0C8.0 18.895430500338414 8.895430500338414 18.0 10.0 18.0H14.0C15.104569499661586 18.0 16.0 18.895430500338414 16.0 20.0V21.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.0 5.0C15.0 6.1045694996615865 15.895430500338414 7.0 17.0 7.0C18.104569499661586 7.0 19.0 6.1045694996615865 19.0 5.0C19.0 3.8954305003384135 18.104569499661586 3.0 17.0 3.0C15.895430500338414 3.0 15.0 3.8954305003384135 15.0 5.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.0 10.0H19.0C20.104569499661586 10.0 21.0 10.895430500338414 21.0 12.0V13.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.0 5.0C5.0 6.1045694996615865 5.8954305003384135 7.0 7.0 7.0C8.104569499661586 7.0 9.0 6.1045694996615865 9.0 5.0C9.0 3.8954305003384135 8.104569499661586 3.0 7.0 3.0C5.8954305003384135 3.0 5.0 3.8954305003384135 5.0 5.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.0 13.0V12.0C3.0 10.895430500338414 3.8954305003384135 10.0 5.0 10.0H7.0" fill="none" fill-rule="nonzero" stroke="#213328" stroke-width="1.50000" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

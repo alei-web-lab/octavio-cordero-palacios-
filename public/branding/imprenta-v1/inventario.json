@@ -1,0 +1,338 @@
+{
+  "version": "imprenta-1.0",
+  "date": "2026-10-06",
+  "movement": "Renovación 63",
+  "phrase": "Amor por Octavio Cordero Palacios",
+  "actualVectors": true,
+  "bitmapsEmbedded": false,
+  "textOutlinedInMastersAndApplications": true,
+  "color": {
+    "svg": "RGB HEX",
+    "pdfAndEps": "CMYK mathematically derived, unprofiled",
+    "iccProfile": null,
+    "pdfXCertified": false,
+    "pantone": null
+  },
+  "productionPages": [
+    {
+      "page": 11,
+      "name": "volante-a5",
+      "trimMm": [
+        148,
+        210
+      ],
+      "mediaMm": [
+        154,
+        216
+      ],
+      "bleedPerSideMm": 3
+    },
+    {
+      "page": 12,
+      "name": "cartel-a3",
+      "trimMm": [
+        297,
+        420
+      ],
+      "mediaMm": [
+        303,
+        426
+      ],
+      "bleedPerSideMm": 3
+    },
+    {
+      "page": 13,
+      "name": "tarjeta-frente",
+      "trimMm": [
+        90,
+        50
+      ],
+      "mediaMm": [
+        96,
+        56
+      ],
+      "bleedPerSideMm": 3
+    },
+    {
+      "page": 14,
+      "name": "tarjeta-reverso",
+      "trimMm": [
+        90,
+        50
+      ],
+      "mediaMm": [
+        96,
+        56
+      ],
+      "bleedPerSideMm": 3
+    },
+    {
+      "page": 15,
+      "name": "banner-200x100cm",
+      "trimMm": [
+        2000,
+        1000
+      ],
+      "mediaMm": [
+        2020,
+        1020
+      ],
+      "bleedPerSideMm": 10
+    },
+    {
+      "page": 16,
+      "name": "una-tinta-25x25cm",
+      "trimMm": [
+        250,
+        250
+      ],
+      "mediaMm": [
+        250,
+        250
+      ],
+      "bleedPerSideMm": 0
+    }
+  ],
+  "files": [
+    {
+      "file": "marcas-svg/amor-circular-blanco.svg",
+      "bytes": 166450,
+      "sha256": "1efb9626b702b5471cd662284b24bd489c47de5e61d76cdc58c6f041d951e346"
+    },
+    {
+      "file": "marcas-svg/amor-circular-color.svg",
+      "bytes": 166441,
+      "sha256": "d131c514e659469355a83959c8b3d33b677c1bdcc2dc8a89da45cb3d2e7573d5"
+    },
+    {
+      "file": "marcas-svg/amor-circular-negro-k100.svg",
+      "bytes": 166454,
+      "sha256": "6236ab0b86906c45ff2a5471a1152658d5ce64a9b4815638e79738d5ceec7ba9"
+    },
+    {
+      "file": "marcas-svg/amor-horizontal-blanco.svg",
+      "bytes": 139081,
+      "sha256": "c55d4b0ca8fa3f4c4bc613ee026ad958e7c328c1d384f4cc92e40e0ec6aa5dbc"
+    },
+    {
+      "file": "marcas-svg/amor-horizontal-color.svg",
+      "bytes": 139072,
+      "sha256": "944416fadb46825f7073d0658bbfd0fb270ea7ee4d8160955e9fe0cdfd208387"
+    },
+    {
+      "file": "marcas-svg/amor-horizontal-negro-k100.svg",
+      "bytes": 139085,
+      "sha256": "f00bea47d730fa5b32b7d980804683da0b2136bad8fc4f7298feb542180dcf6f"
+    },
+    {
+      "file": "marcas-svg/renovacion-63-blanco.svg",
+      "bytes": 12939,
+      "sha256": "b8cfaaa7d6656064d345f5993c370ebf44666716fce007dee8a0420c6e54cd56"
+    },
+    {
+      "file": "marcas-svg/renovacion-63-color.svg",
+      "bytes": 12930,
+      "sha256": "0ff4410305be8634b28491306db5481b656fc17da0d25d8c9ab0cc5055eee364"
+    },
+    {
+      "file": "marcas-svg/renovacion-63-negro-k100.svg",
+      "bytes": 12943,
+      "sha256": "f96dbbfb3c0fcff0f792c7ef6e6d0c8df04f1c87881cbc2724671cca19c861c1"
+    },
+    {
+      "file": "marcas-svg/se-siente-gestual-blanco.svg",
+      "bytes": 166640,
+      "sha256": "139e3a23216a679e5db32d70de6899ef65102030f15cfc213d64d0a348a6501b"
+    },
+    {
+      "file": "marcas-svg/se-siente-gestual-color.svg",
+      "bytes": 166631,
+      "sha256": "6914a242847112c5ba1fb3b0dfdc7053536463f7eaabd7fcda3ce207275f57a6"
+    },
+    {
+      "file": "marcas-svg/se-siente-gestual-negro-k100.svg",
+      "bytes": 166644,
+      "sha256": "aa8643099b1df04132d7c6d70b8b5fa477068d6e835a93ce2304e61a7dea9727"
+    },
+    {
+      "file": "marcas-eps/amor-circular-blanco.eps",
+      "bytes": 87445,
+      "sha256": "702615bbdc06b3a144075cb8e5f68aa8bd240517ebb7aaacc57213fb48d4497f"
+    },
+    {
+      "file": "marcas-eps/amor-circular-color.eps",
+      "bytes": 87436,
+      "sha256": "dd5864619f6cb15350a9a79f2da072ba22042b084733e165f583908266b3671d"
+    },
+    {
+      "file": "marcas-eps/amor-circular-negro-k100.eps",
+      "bytes": 87449,
+      "sha256": "8af6231c807b15f45af786b3370ae2f6556dff0972729ce57a56bad1eb73b8d7"
+    },
+    {
+      "file": "marcas-eps/amor-horizontal-blanco.eps",
+      "bytes": 71905,
+      "sha256": "927a6f6227f9d5ee612fb3ae44db094ee8dab3ef9b9249b9d8dcd7108d421c96"
+    },
+    {
+      "file": "marcas-eps/amor-horizontal-color.eps",
+      "bytes": 71896,
+      "sha256": "9ab6c2b448db8cef5dd802d31f90c64921327624ab14ec76025388e6ac82186e"
+    },
+    {
+      "file": "marcas-eps/amor-horizontal-negro-k100.eps",
+      "bytes": 71909,
+      "sha256": "0b72326be23d169819a7ec06b52bd6d27bad67e400835c2da2017d4025fae3b7"
+    },
+    {
+      "file": "marcas-eps/renovacion-63-blanco.eps",
+      "bytes": 10242,
+      "sha256": "7314620e699e3e4692deb5515654c849a5b2f78d2c4d407a1ba3c987dfb24a5d"
+    },
+    {
+      "file": "marcas-eps/renovacion-63-color.eps",
+      "bytes": 10233,
+      "sha256": "4c3a703a71bff38812b138fdf86df6d98650829b6e28879bc2cff6be999ef75c"
+    },
+    {
+      "file": "marcas-eps/renovacion-63-negro-k100.eps",
+      "bytes": 10246,
+      "sha256": "ba3b80f7e9303df6f918b400b14f36bfee55afe914e7bb17c3e19cd41a6b0a5f"
+    },
+    {
+      "file": "marcas-eps/se-siente-gestual-blanco.eps",
+      "bytes": 87863,
+      "sha256": "ac56ce7f485d486041b11899b7f68f583128543bdbee9ef9b035ef7c9862ffa7"
+    },
+    {
+      "file": "marcas-eps/se-siente-gestual-color.eps",
+      "bytes": 87854,
+      "sha256": "18c469ae7468e9308e0895cbbc6dfad3089f6dc0133e48b79eacb2dc79bdd420"
+    },
+    {
+      "file": "marcas-eps/se-siente-gestual-negro-k100.eps",
+      "bytes": 87867,
+      "sha256": "87d90790de2bb2bb92ec666643e4ee4c032958845f63f84a166024d8ad3e3b4e"
+    },
+    {
+      "file": "iconos-svg/community.svg",
+      "bytes": 2032,
+      "sha256": "20e2905f346f4081eba54a5bac1dd57885bc07815630d365c1e0cb5a1536d5c5"
+    },
+    {
+      "file": "iconos-svg/document.svg",
+      "bytes": 1231,
+      "sha256": "96e2ef7d13ec695db1c73c0fd1e6d447b8b7ab7a5c53484bb35dc30367980c1a"
+    },
+    {
+      "file": "iconos-svg/droplet.svg",
+      "bytes": 814,
+      "sha256": "9a0a7e473b42fc16cc8714e589cbf90765036002e8dfe9dc729c23ec0448b885"
+    },
+    {
+      "file": "iconos-svg/leaf.svg",
+      "bytes": 737,
+      "sha256": "95b9bd5a700783ffb27ceb40a106a7a010e142e6d0eca9f20cf35cb9f41c6d6b"
+    },
+    {
+      "file": "iconos-svg/road.svg",
+      "bytes": 987,
+      "sha256": "4ef5c8a88dc27a2fdade8057765e0d7b3e5514e9db77a8d9b3ea67b1d0ccc527"
+    },
+    {
+      "file": "iconos-svg/shield.svg",
+      "bytes": 944,
+      "sha256": "0a225da5f184a16761ae3694836e92b17229506714122942ca5e6e87da1625e7"
+    },
+    {
+      "file": "iconos-eps/community.eps",
+      "bytes": 1945,
+      "sha256": "b1c59efbb9f048462b7aff6fa9094743023a17e82bc9629a7d7b9c25c7a6468a"
+    },
+    {
+      "file": "iconos-eps/document.eps",
+      "bytes": 1258,
+      "sha256": "541850b102851ad0a0e568bb1cb057d3ce304f6c7f1821fac8a4535e379eb099"
+    },
+    {
+      "file": "iconos-eps/droplet.eps",
+      "bytes": 714,
+      "sha256": "f486a0d22ee6a2e4682c912b725b2885767401d1f2a82d6426389c381d7db523"
+    },
+    {
+      "file": "iconos-eps/leaf.eps",
+      "bytes": 803,
+      "sha256": "e15c000a593fdf20cf9428c7afee678f78e1772c88d71b1e516ffc7da2b2a0ae"
+    },
+    {
+      "file": "iconos-eps/road.eps",
+      "bytes": 934,
+      "sha256": "ede3e3174f097b2ba1610592667720e3c50b68e3afad2e27712df24c1a37c123"
+    },
+    {
+      "file": "iconos-eps/shield.eps",
+      "bytes": 763,
+      "sha256": "6f3863f999496bf756b3e2b5edb99375207d13da23ca1b2f0834eba23e2b686c"
+    },
+    {
+      "file": "aplicaciones-svg/banner-200x100cm.svg",
+      "bytes": 198545,
+      "sha256": "7e0dc5fac48f355252888648d8417027aceb8def2afd172b82dae10ac80a7240"
+    },
+    {
+      "file": "aplicaciones-svg/cartel-a3.svg",
+      "bytes": 416246,
+      "sha256": "c1624b2a2ecbc9841bcde308844f4f554b066c2b46c707014950b3b1033a6fe6"
+    },
+    {
+      "file": "aplicaciones-svg/tarjeta-frente.svg",
+      "bytes": 184252,
+      "sha256": "ea0d7a53f08c257596beca812f1c3ef58fb6b68efb06ffc5102bb5a08f99ed07"
+    },
+    {
+      "file": "aplicaciones-svg/tarjeta-reverso.svg",
+      "bytes": 144916,
+      "sha256": "26831fd60324ab6a15fefbdb4556bc105d9acda0752952fa866e04c45a7bcb77"
+    },
+    {
+      "file": "aplicaciones-svg/una-tinta-25x25cm.svg",
+      "bytes": 168406,
+      "sha256": "5427ac2a1d932b94a782ad62b0a01eb1450b757d81adad9c4b1d88f61cfdeb12"
+    },
+    {
+      "file": "aplicaciones-svg/volante-a5.svg",
+      "bytes": 370928,
+      "sha256": "1b74126254461fc8ca80a4779bb7b0bae860e1675456bfb478976afed2c5f300"
+    },
+    {
+      "file": "aplicaciones-eps/banner-200x100cm.eps",
+      "bytes": 154947,
+      "sha256": "6b55bdaec258508efcdcf9bc6057c748c49c9f156472a1a77702f6137599c0bd"
+    },
+    {
+      "file": "aplicaciones-eps/cartel-a3.eps",
+      "bytes": 459844,
+      "sha256": "47e3f16c4d15cc5b6e7e4e433de9578d94879fa52a3d479f48a1b048e43fbafe"
+    },
+    {
+      "file": "aplicaciones-eps/tarjeta-frente.eps",
+      "bytes": 121574,
+      "sha256": "f86a81ae05abb2fc73509d563ab19a1d971fe28b2d4216657eb4f328a302e456"
+    },
+    {
+      "file": "aplicaciones-eps/tarjeta-reverso.eps",
+      "bytes": 181840,
+      "sha256": "ec4596fd00e4aeb4e10962e48a6cccc281d8ff0ff071978166bde9bfae39dbb4"
+    },
+    {
+      "file": "aplicaciones-eps/una-tinta-25x25cm.eps",
+      "bytes": 93574,
+      "sha256": "5c9acd150bf717037de5b3e996ec744089426e493b3d1bbd61e32c0c3bdbd0fb"
+    },
+    {
+      "file": "aplicaciones-eps/volante-a5.eps",
+      "bytes": 368650,
+      "sha256": "598b135b7c5e47c3fc21c540b1b359a2d7fd5dd12493898faf2428bbc21e26d4"
+    }
+  ]
+}

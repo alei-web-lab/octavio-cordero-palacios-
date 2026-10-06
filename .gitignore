@@ -13,3 +13,6 @@ docs/
 /cms/
 .impeccable/
 .cms-test-*/
+
+# Archivos de bloqueo temporales de Office.
+~$*

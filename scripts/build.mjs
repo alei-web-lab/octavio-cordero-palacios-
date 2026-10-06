@@ -38,7 +38,10 @@ await mkdir(output, { recursive: true });
 await cp(path.join(root, 'index.html'), path.join(output, 'index.html'));
 await cp(source, path.join(output, 'src'), { recursive: true });
 for (const name of assetNames) {
-  await cp(path.join(assets, name), path.join(output, name), { recursive: true });
+  await cp(path.join(assets, name), path.join(output, name), {
+    recursive: true,
+    filter: sourcePath => !path.basename(sourcePath).startsWith('~$'),
+  });
 }
 
 console.log(`Sitio construido en: ${output}`);
