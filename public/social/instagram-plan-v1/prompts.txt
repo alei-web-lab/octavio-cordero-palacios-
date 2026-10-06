@@ -1,0 +1,214 @@
+01 — 01-portada.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 01, COVER. Use the wide reference only as a STYLE reference, recompose it into a new portrait 4:5 design. Add a fine orange heart divider as in the reference; do not copy AMOR POR. Visual element: A refined line connecting six small outline pictograms: road, leaf, culture, shield, water drop and checklist. No photographs.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"EL PLAN,"
+"PUNTO POR PUNTO"
+"OCTAVIO CORDERO PALACIOS"
+"6 temas para conocer las propuestas"
+"Desliza para explorar"
+"01 / 08"
+
+--------------------
+
+02 — 02-vias-y-conectividad.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 02 OF 08, CONTENT PAGE. The attached cover is the SERIES STYLE REFERENCE. Match its header, cream-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do NOT copy its EL PLAN headline, icon row, location line or cover call to action. Build a content page with large title, one topic pictogram and the THREE provided heading/description pairs, separated by airy spacing and thin lines. Keep the coordination note small but readable above the bottom margin. No heart divider on this content page.
+Visual element: An abstract orange outline road pictogram. Do not depict an actual place.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"VÍAS Y"
+"CONECTIVIDAD"
+"Plan Vial Participativo"
+"Prioridades definidas con las 16 comunidades."
+"Mantenimiento preventivo"
+"Dos campañas al año en las vías priorizadas."
+"Vía de la Producción"
+"Gestionar estudios, convenios y financiamiento."
+"Coordinación con Prefectura y Municipio."
+"02 / 08"
+
+--------------------
+
+03 — 03-produccion-local.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 03 OF 08, CONTENT PAGE. The attached cover is the SERIES STYLE REFERENCE. Match its header, cream-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do NOT copy its EL PLAN headline, icon row, location line or cover call to action. Build a content page with large title, one topic pictogram and the THREE provided heading/description pairs, separated by airy spacing and thin lines. Keep the coordination note small but readable above the bottom margin. No heart divider on this content page.
+Visual element: An elegant abstract orange outline leaf and seed pictogram. No farm photograph.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"PRODUCCIÓN"
+"LOCAL"
+"Capacitación agropecuaria"
+"Gestionar formación y asistencia técnica."
+"Ferias productivas"
+"Facilitar la venta directa al consumidor."
+"Caminos para la producción"
+"Priorizar accesos a fincas, pastoreo y acopio."
+"Coordinación con instituciones y productores."
+"03 / 08"
+
+--------------------
+
+04 — 04-inclusion-y-cultura.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 04 OF 08, CONTENT PAGE. The attached cover is the SERIES STYLE REFERENCE. Match its header, cream-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do NOT copy its EL PLAN headline, icon row, location line or cover call to action. Build a content page with large title, one topic pictogram and the THREE provided heading/description pairs, separated by airy spacing and thin lines. Keep the coordination note small but readable above the bottom margin. No heart divider on this content page.
+Visual element: A graceful orange outline open-book and cultural rhythm pictogram. No portraits or demographic-specific visuals.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"INCLUSIÓN"
+"Y CULTURA"
+"Salud preventiva"
+"Gestionar brigadas y atención a grupos prioritarios."
+"Deporte y cultura"
+"Una escuela deportiva y una cultural."
+"Identidad de la parroquia"
+"Agenda cultural anual y recuperación de saberes."
+"Coordinación con las instituciones competentes."
+"04 / 08"
+
+--------------------
+
+05 — 05-seguridad-y-convivencia.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 05 OF 08, CONTENT PAGE. Build the topic heading, one distinctive pictogram, and THREE spacious numbered heading/description pairs. Use the small coordination/participation note at the bottom. Do not use the cover's six-icon row or heart divider. The attached cover is the SERIES STYLE REFERENCE. Match its header size and position, ivory-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do not copy the cover headline or its other text.
+Visual element: An elegant flat orange outline shield pictogram. No police insignia or government logos.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"SEGURIDAD"
+"Y CONVIVENCIA"
+"Organización comunitaria"
+"Comités de seguridad en las 16 comunidades."
+"Alarmas e iluminación"
+"Gestionar mejoras en puntos estratégicos."
+"Prevención y convivencia"
+"Campañas frente a la violencia y el consumo de sustancias."
+"Coordinación con entidades de seguridad y protección."
+"05 / 08"
+
+--------------------
+
+06 — 06-ambiente-y-agua.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 06 OF 08, CONTENT PAGE. Build the topic heading, one distinctive pictogram, and THREE spacious numbered heading/description pairs. Use the small coordination/participation note at the bottom. Do not use the cover's six-icon row or heart divider. The attached cover is the SERIES STYLE REFERENCE. Match its header size and position, ivory-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do not copy the cover headline or its other text.
+Visual element: A single orange outline water droplet with a leaf detail. No invented parish scenery.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"AMBIENTE"
+"Y AGUA"
+"Fuentes de agua"
+"Proteger y reforestar fuentes y quebradas."
+"Sistemas comunitarios"
+"Diagnosticar y gestionar mejoras del agua."
+"Mingas y residuos"
+"Una minga de limpieza anual en cada comunidad."
+"Coordinación con ETAPA, EMAC y Municipio."
+"06 / 08"
+
+--------------------
+
+07 — 07-gestion-y-participacion.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 07 OF 08, CONTENT PAGE. Build the topic heading, one distinctive pictogram, and THREE spacious numbered heading/description pairs. Use the small coordination/participation note at the bottom. Do not use the cover's six-icon row or heart divider. The attached cover is the SERIES STYLE REFERENCE. Match its header size and position, ivory-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do not copy the cover headline or its other text.
+Visual element: A distinctive orange outline checklist and dialogue pictogram. No statistical chart or invented figures.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"GESTIÓN Y"
+"PARTICIPACIÓN"
+"Decisiones en comunidad"
+"Asambleas para priorizar necesidades y proyectos."
+"Metas que se pueden consultar"
+"Tablero público actualizado cada trimestre."
+"Rendición de cuentas"
+"Informes anuales de resultados y presupuesto."
+"Participación y seguimiento de la gestión."
+"07 / 08"
+
+--------------------
+
+08 — 08-consulta-el-plan.png
+
+Use case: infographic-diagram.
+Asset type: one finished Instagram carousel image, portrait 4:5 canvas, 1024 × 1280 pixels. One slide only, not a contact sheet.
+Create a polished, coherent Spanish-language informational carousel about the user-provided plan. The supplied image is ONLY a reference for orange, warm ivory and deep natural green typography, not an edit target and not text to copy.
+Design system: predominantly warm ivory/off-white (#fffaf6), orange #ff5d15 as the principal accent, dark natural green #213328 for body text. Orange must never fill the whole background. Extremely subtle peach curves in diagonally opposite corners, clean flat lettering without gloss, barely perceptible paper texture. Premium editorial layout with generous whitespace and a clear mobile reading hierarchy. Header RENOVACIÓN 63 in the same top-left position on every slide, small period label below; page counter at the lower right. Substantial bold condensed uppercase sans-serif headings, readable humanist sans-serif body. Outer safe margin about 75 px; no text touching the edges. Text must be large, well spaced and perfectly spelled in Spanish. Use the exact accents.
+For content slides, set the large heading in the top third with orange/green contrast. Use ONE outlined topic pictogram, and three clearly separated numbered or icon-led sections, each with a bold short subheading and its provided description. Avoid enclosing every section in a rounded card; use whitespace and fine orange separators. A small explanatory coordination note above the consistent footer. Same body font, title scale, header alignment, pictogram style and page counter across the series.
+For cover and closing, let the large headline dominate the center and keep the remaining supporting text clearly subordinate.
+Print ONLY the supplied verbatim texts, each exactly once. No text from the style reference, no extra slogans, no voting calls, no claims of completed works, no fictitious accounts, no candidate portraits, no photos, no invented local landscapes, no government emblems, no watermarks, no logos of other parties, no QR codes. The content is a factual summary for the general public.
+
+SLIDE 08 OF 08, CLOSING PAGE. Make a strong concluding headline and a clearly readable lowercase website address. Use a document pictogram. No QR code. No three-row numbered list on this last page. The attached cover is the SERIES STYLE REFERENCE. Match its header size and position, ivory-and-peach corner curves, bold green-and-orange type and lower-right page counter. Do not copy the cover headline or its other text.
+Visual element: An orange outline open document with a clear arrow pointing to the website address. No QR codes.
+Verbatim visible texts:
+"RENOVACIÓN 63"
+"PLAN DE TRABAJO 2027–2031"
+"EL PLAN COMPLETO,"
+"A TU ALCANCE."
+"Consulta los objetivos,"
+"las metas y la programación."
+"octavio-cordero-palacios.vercel.app"
+"Sección «Plan de trabajo»"
+"Resumen del documento facilitado por el equipo."
+"08 / 08"

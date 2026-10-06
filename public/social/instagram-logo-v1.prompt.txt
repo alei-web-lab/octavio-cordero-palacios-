@@ -1,0 +1,16 @@
+Tool: built-in Image Gen, edit of the generated profile-avatar draft.
+
+Edit target: the supplied square Instagram avatar. Replace ALL of its existing text and its numbered emblem. Keep a premium, light, orange-and-deep-green typographic identity but redesign the lettering arrangement completely.
+
+The ONLY visible text must be exactly:
+"AMOR POR OCTAVIO CORDERO PALACIOS"
+
+Do NOT show 63, RENOVACIÓN, PLAN, years, party names, Instagram, extra words or any other lettering.
+
+Finished design: one square 1:1 Instagram profile logo on an opaque warm ivory background (#fffaf6). Use large, confident bold condensed sans-serif typography, perfectly spelled, front-facing, crisp, flat solid colors. Set "AMOR POR" in vibrant orange near #ff5d15, prominent across the upper part of the central emblem. Below it, arrange the parish name as THREE substantial centered lines:
+"OCTAVIO"
+"CORDERO"
+"PALACIOS"
+These three lines should be very bold and highly legible in deep natural green #213328, with deliberate optical spacing. Let the full name be prominent, not tiny caption text. Balance the five words as one distinctive, compact wordmark.
+
+Keep the thin orange circular framing from the supplied avatar, but leave generous space around it. Every word must fit safely inside a circular crop; all letters must remain well inside the central area, with no clipping. No heart, icons or extra symbols; use typography and the fine circle only. No gradients on the letters, no gloss, no texture that reduces legibility, no shadows, no 3D, no photographs, no mockup, no watermark, no alternate options. Deliver ONE finished standalone square image suitable as a profile avatar.
