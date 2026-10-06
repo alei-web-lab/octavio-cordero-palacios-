@@ -1,0 +1,2 @@
+# Preserve the brand manual as binary data, including on Windows checkouts.
+public/branding/*.pdf binary

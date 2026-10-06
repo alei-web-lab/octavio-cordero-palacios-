@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "movement": "Renovación 63",
+    "phrase": "Amor por Octavio Cordero Palacios",
+    "parish": "Octavio Cordero Palacios",
+    "version": "1.0",
+    "date": "2026-10-06"
+  },
+  "palette": {
+    "accent": "#FF5D15",
+    "ink": "#213328",
+    "paper": "#FFFAF6",
+    "white": "#FFFFFF",
+    "soft": "#FFF0E6",
+    "accentDark": "#7A2D0A",
+    "accentDarkCssFallback": "#B43C08",
+    "planGround": "#EDF1EB",
+    "galleryGround": "#20372E",
+    "faqGround": "#F1F3EF",
+    "contactGround": "#F7EFE8",
+    "line": "#DEDED4",
+    "muted": "#546052"
+  },
+  "typography": {
+    "headline": {
+      "family": "Barlow Condensed",
+      "weights": [
+        700,
+        800
+      ]
+    },
+    "body": {
+      "family": "DM Sans",
+      "weights": [
+        400,
+        500,
+        600
+      ]
+    },
+    "signature": {
+      "family": "Manrope",
+      "weights": [
+        600,
+        800
+      ]
+    },
+    "logoLettering": "Raster art; no exact editable font supplied"
+  },
+  "proposedRules": {
+    "clearSpaceRatio": 0.1,
+    "spacingUnits": [
+      8,
+      16,
+      24,
+      32
+    ],
+    "lightDesignShare": {
+      "lightBase": 0.7,
+      "ink": 0.2,
+      "accent": 0.1
+    },
+    "gradient": {
+      "stops": [
+        "#FFF0E6",
+        "#FFFAF6"
+      ],
+      "accentOverlayOpacity": [
+        0.05,
+        0.12
+      ]
+    },
+    "portrait1080MarginsPx": [
+      72,
+      90
+    ],
+    "headlinePx": [
+      80,
+      110
+    ],
+    "subtitlePx": [
+      42,
+      52
+    ],
+    "bodyPx": [
+      36,
+      42
+    ],
+    "notePx": [
+      26,
+      30
+    ],
+    "webTransitionMs": [
+      160,
+      260
+    ],
+    "printStart": {
+      "ppi": 300,
+      "bleedMm": 3,
+      "note": "Confirmar con el proveedor"
+    }
+  },
+  "contrastPairs": [
+    {
+      "label": "Tinta / marfil",
+      "foreground": "#213328",
+      "background": "#FFFAF6",
+      "ratio": 12.9121,
+      "normalTextAA": true,
+      "largeTextAA": true
+    },
+    {
+      "label": "Naranja / marfil",
+      "foreground": "#FF5D15",
+      "background": "#FFFAF6",
+      "ratio": 2.9665,
+      "normalTextAA": false,
+      "largeTextAA": false
+    },
+    {
+      "label": "Naranja / blanco",
+      "foreground": "#FF5D15",
+      "background": "#FFFFFF",
+      "ratio": 3.0753,
+      "normalTextAA": false,
+      "largeTextAA": true
+    },
+    {
+      "label": "Blanco / naranja",
+      "foreground": "#FFFFFF",
+      "background": "#FF5D15",
+      "ratio": 3.0753,
+      "normalTextAA": false,
+      "largeTextAA": true
+    },
+    {
+      "label": "Naranja oscuro / marfil",
+      "foreground": "#7A2D0A",
+      "background": "#FFFAF6",
+      "ratio": 9.1775,
+      "normalTextAA": true,
+      "largeTextAA": true
+    },
+    {
+      "label": "Marfil / verde de galería",
+      "foreground": "#FFFAF6",
+      "background": "#20372E",
+      "ratio": 12.2968,
+      "normalTextAA": true,
+      "largeTextAA": true
+    }
+  ],
+  "assets": {
+    "avatar": "social/instagram-logo-v1.png",
+    "cover": "brand/amor-por-octavio-portada-v2.png",
+    "web": "brand/campaign-wordmark-light.png",
+    "houses": "images/octavio-casas.webp",
+    "river": "images/octavio-quebrada.webp"
+  },
+  "workingFormats": {
+    "square": [
+      1080,
+      1080
+    ],
+    "portrait": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ]
+  },
+  "actualAssets": {
+    "avatar": [
+      1254,
+      1254
+    ],
+    "cover": [
+      2048,
+      768
+    ],
+    "carousel": [
+      1122,
+      1402
+    ]
+  }
+}
