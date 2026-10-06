@@ -1,0 +1,13 @@
+Tool: built-in Image Gen; edit of the supplied PNG.
+
+Edit the attached typographic cover image. Image 1 is the edit target. Create a professionally finished, premium horizontal cover for the existing public-facing campaign identity. This is a typography and graphic design improvement, not a photograph or a mockup.
+
+Preserve exactly these two phrases, spelled correctly and with no extra words:
+"AMOR POR"
+"OCTAVIO CORDERO PALACIOS"
+
+Keep the essential identity: orange is the principal brand accent, with a predominantly light, warm ivory background. Orange must NOT cover the background. Improve the visual hierarchy, optical kerning, spacing, balance and lettering. Make "AMOR" the dominant visual anchor in substantial, elegant, very bold uppercase sans-serif lettering with subtle custom character; make "POR" smaller but clearly legible and aligned harmoniously. The full parish name must remain prominent, beautifully spaced and readable as one coherent line below the headline, using a condensed bold sans-serif in a very deep natural green (#213328). Use vibrant campaign orange near #ff5d15 on the main word and a tasteful fine accent line. Integrate one small, refined heart detail into that accent line, referring to the existing word AMOR without obscuring any letters.
+
+Composition: wide landscape banner, about 2.7:1 aspect ratio, ideally 2304 × 864 pixels. Flat front-facing final artwork, no frame, no mockup. Center the complete wordmark with generous breathing room and a clear safe margin on all edges; all text should stay inside the central 80% of the canvas. A sophisticated almost-white warm paper base with extremely subtle peach light/gradient at the far edges, crisp clean typography, and restrained organic curves in the corners. The result should feel clear, welcoming and locally grounded without adding any new campaign claims or text.
+
+Do not add people, photographs, landscapes, monuments, fake parish scenery, extra slogans, party numbers, other logos, watermarks, metallic effects, drop shadows or 3D lettering. Do not add "Cuenca" or "Se siente". Retain the exact parish name "OCTAVIO CORDERO PALACIOS".
