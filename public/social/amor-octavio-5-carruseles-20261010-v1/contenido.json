@@ -1,0 +1,918 @@
+{
+  "brand": "Amor por Octavio Cordero Palacios",
+  "date": "2026-10-10",
+  "format": [
+    1080,
+    1350
+  ],
+  "carousels": [
+    {
+      "id": "01-escuchar-y-encontrarnos",
+      "name": "Escuchar y encontrarnos",
+      "kicker": "Escuchar y encontrarnos",
+      "icon": "community",
+      "planThemes": [
+        "gestion",
+        "inclusion"
+      ],
+      "caption": "A veces, estar cerca empieza por escuchar con calma.\n\nDar tiempo a una voz y dejar espacio para una idea son gestos que podemos compartir en Octavio Cordero Palacios. Una conversación merece nuestra atención, aunque pensemos distinto.\n\nHoy, regalemos un momento de atención a alguien cercano.\n\nAmor por Octavio Cordero Palacios.\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Comunidad",
+      "slides": [
+        {
+          "id": "01",
+          "layout": "cover",
+          "title": [
+            "A veces, todo",
+            "empieza con",
+            "escuchar."
+          ],
+          "body": "Estos gestos cotidianos nos acercan.",
+          "photo": "meeting",
+          "position": "50% 44%",
+          "alt": "Cuatro personas conversan alrededor de una mesa con documentos y un computador. El diseño dice: A veces, todo empieza con escuchar. Estos gestos cotidianos nos acercan.",
+          "file": "01.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "cbbe22d2fe372515041c668847f5e3ff96d4b9fd8f0b1bcaf06015e6e9e53d5e",
+          "originalPhoto": {
+            "key": "meeting",
+            "basename": "WhatsApp Image 2026-10-10 at 11.20.47 PM.jpeg",
+            "sha256": "b9ec134e7977a23c8b52afe2cde648a603b0390cab23a6d2bb1b34d7613735ca",
+            "dimensions": [
+              720,
+              1280
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "02",
+          "layout": "photo",
+          "title": [
+            "Dar tiempo",
+            "a una voz."
+          ],
+          "body": "Escuchar sin interrumpir es una forma sencilla de respeto.",
+          "photo": "seated",
+          "position": "50% 16%",
+          "alt": "Cuatro personas con pañuelos naranjas están sentadas y miran en la misma dirección. Texto: Dar tiempo a una voz. Escuchar sin interrumpir es una forma sencilla de respeto.",
+          "file": "02.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "5d998164f461778ed29cf3be0062e594f78b3d6847cbad761c397e3bdac84921",
+          "originalPhoto": {
+            "key": "seated",
+            "basename": "WhatsApp Image 2026-10-10 at 11.20.46 PM.jpeg",
+            "sha256": "ab238fef6a53863c73035289e78bb4e120695d2efe6f76d051ca6768d0235952",
+            "dimensions": [
+              720,
+              1280
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "03",
+          "layout": "illustration",
+          "title": [
+            "Preguntar",
+            "con cariño."
+          ],
+          "body": "«¿Cómo estás?» puede abrir una conversación que hacía falta.",
+          "art": "community",
+          "alt": "Ilustración de personas unidas por líneas suaves, con acentos naranjas. Texto: Preguntar con cariño. ¿Cómo estás? puede abrir una conversación que hacía falta.",
+          "file": "03.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "ed50fb78afaf8d01e90649f04baa7ebd0b35a403b2d2b303e17e6692a0057a5a",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "04",
+          "layout": "photo",
+          "title": [
+            "Una idea merece",
+            "un lugar."
+          ],
+          "body": "Conversar con calma deja espacio para pensar juntos.",
+          "photo": "conversation",
+          "position": "50% 53%",
+          "alt": "Dos mujeres con pañuelos naranjas sonríen y conversan al aire libre. Texto: Una idea merece un lugar. Conversar con calma deja espacio para pensar juntos.",
+          "file": "04.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "633baf2d46be2c1c8e00fe1e9decf21496209023b527f95f303e4f0dde29a80b",
+          "originalPhoto": {
+            "key": "conversation",
+            "basename": "SANDRA LEMA Y STEFI.jpeg",
+            "sha256": "0afbc61a85fb1a5bc9b9aa178332281f4418fb7efcb51a714a5e4c4b500cb3e7",
+            "dimensions": [
+              3024,
+              4032
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "05",
+          "layout": "closing",
+          "title": [
+            "La cercanía",
+            "se cuida cada día."
+          ],
+          "recap": [
+            "Tiempo para escuchar",
+            "Preguntas con cariño",
+            "Espacio para las ideas"
+          ],
+          "body": "Hoy, regalemos un momento de atención.",
+          "alt": "Resumen sobre un fondo claro: La cercanía se cuida cada día. Tiempo para escuchar, preguntas con cariño y espacio para las ideas. Invitación: Hoy, regalemos un momento de atención.",
+          "file": "05.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "43a276b729481af79d63256c4db19a98ff79931738c23185fff88776feaed77f",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        }
+      ],
+      "captionChars": 395,
+      "hookChars": 52,
+      "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+      "primaryGoal": "Comunicación pública de valores y cercanía",
+      "cta": "Hoy, regalemos un momento de atención."
+    },
+    {
+      "id": "02-el-carino-por-la-tierra",
+      "name": "El cariño por la tierra",
+      "kicker": "El cariño por la tierra",
+      "icon": "leaf",
+      "planThemes": [
+        "produccion",
+        "ambiente",
+        "inclusion"
+      ],
+      "caption": "El cariño por esta tierra también se cultiva en lo cotidiano.\n\nValorar un alimento es reconocer a las manos que lo hicieron posible. Los productos de nuestra parroquia y los saberes que se comparten merecen un lugar en la conversación.\n\nDemos un lugar a los productos de Octavio Cordero Palacios en nuestra mesa.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de las casas: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Campo",
+      "slides": [
+        {
+          "id": "01",
+          "layout": "cover-art",
+          "title": [
+            "El cariño por",
+            "esta tierra también",
+            "se cultiva."
+          ],
+          "body": "En lo cotidiano, en lo que compartimos.",
+          "art": "field",
+          "alt": "Ilustración de una planta y surcos, sobre fondo marfil con detalles verdes y naranjas. Texto: El cariño por esta tierra también se cultiva. En lo cotidiano, en lo que compartimos.",
+          "file": "01.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "501d2f3fdafdcc7d881b15156ec13c4987cb6dd1980a8a0bfacf365651d57cb3",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "02",
+          "layout": "illustration",
+          "title": [
+            "Detrás de cada",
+            "alimento hay manos."
+          ],
+          "body": "Reconocer ese trabajo empieza por valorar lo que llega a nuestra mesa.",
+          "art": "harvest",
+          "alt": "Dibujo de una canasta con alimentos y hojas. Texto: Detrás de cada alimento hay manos. Reconocer ese trabajo empieza por valorar lo que llega a nuestra mesa.",
+          "file": "02.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "8bc531aaf96614a033a441d002545a1bca3f7ca132966ec776c8a389fd71e5be",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "03",
+          "layout": "photo",
+          "title": [
+            "Lo de aquí",
+            "tiene una historia."
+          ],
+          "body": "Un producto local nos acerca a quien lo cultiva y a sus saberes.",
+          "photo": "houses",
+          "position": "50% 57%",
+          "alt": "Casas antiguas del centro de Octavio Cordero Palacios, fotografiadas por Martín Vasco. Texto: Lo de aquí tiene una historia. Un producto local nos acerca a quien lo cultiva y a sus saberes.",
+          "file": "03.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "9ac797a28ad93a4a7d9b8ff4fdf948f968509dfd50ab642c785c5982530545ba",
+          "originalPhoto": {
+            "key": "houses",
+            "basename": "octavio-casas.webp",
+            "sha256": "4a0f5c4be8d2ae075a349c530e16526a2565cb3b67afe46ad797afbcd18e69a8",
+            "dimensions": [
+              840,
+              1120
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": {
+              "subject": "Casas de Octavio Cordero Palacios",
+              "author": "Martín Vasco (Martin.Vasco593)",
+              "date": "2024-05-10",
+              "source": "https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg",
+              "license": "CC BY 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "04",
+          "layout": "panorama",
+          "title": [
+            "Compartir lo",
+            "que sabemos."
+          ],
+          "body": "Una conversación entre vecinos puede mantener vivo un oficio.",
+          "photo": "group",
+          "position": "50% 50%",
+          "alt": "Fotografía completa de cuatro personas juntas al aire libre, entre árboles y bajo un cielo azul. Texto: Compartir lo que sabemos. Una conversación entre vecinos puede mantener vivo un oficio.",
+          "file": "04.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "bc9ffba4cd3a49bb4536499554d8ab27d80af36ca876b4db4e97bf7aa7c5b4cc",
+          "originalPhoto": {
+            "key": "group",
+            "basename": "SANDRA LEMA Y OMAR QUITO.jpeg",
+            "sha256": "b8f2b2149fd4e4e52363443228312b1118af5fdf019c9497b27f03b0aff986f4",
+            "dimensions": [
+              4032,
+              2268
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Fotografía completa dentro del marco; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "05",
+          "layout": "closing",
+          "title": [
+            "La tierra merece",
+            "nuestro cariño."
+          ],
+          "recap": [
+            "Valorar cada alimento",
+            "Reconocer a quien lo cultiva",
+            "Compartir nuestros saberes"
+          ],
+          "body": "Demos un lugar a los productos de nuestra parroquia.",
+          "alt": "Resumen ilustrado: La tierra merece nuestro cariño. Valorar cada alimento, reconocer a quien lo cultiva y compartir nuestros saberes. Invitación: Demos un lugar a los productos de nuestra parroquia.",
+          "file": "05.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "dedc8c5a0650d6ac973c076b4c0df57d273034e99a85235b7ecbb57f49a50035",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        }
+      ],
+      "captionChars": 680,
+      "hookChars": 61,
+      "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+      "primaryGoal": "Comunicación pública de valores y cercanía",
+      "cta": "Demos un lugar a los productos de nuestra parroquia."
+    },
+    {
+      "id": "03-el-agua-y-la-vida",
+      "name": "El agua y la vida",
+      "kicker": "El agua y la vida",
+      "icon": "droplet",
+      "planThemes": [
+        "ambiente"
+      ],
+      "caption": "El agua también necesita nuestro cariño.\n\nCerrar bien una llave y llevar de vuelta los residuos de un paseo son formas sencillas de cuidar nuestro entorno. Las quebradas y la vegetación de Octavio Cordero Palacios forman parte de nuestro hogar.\n\nHagamos del cuidado una costumbre compartida.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de la quebrada: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #CuidemosElAgua",
+      "slides": [
+        {
+          "id": "01",
+          "layout": "cover",
+          "title": [
+            "El agua también",
+            "necesita nuestro",
+            "cariño."
+          ],
+          "body": "Pequeños cuidados para nuestro entorno.",
+          "photo": "stream",
+          "position": "50% 52%",
+          "alt": "Vegetación y quebrada de Octavio Cordero Palacios, fotografiadas por Martín Vasco. Texto: El agua también necesita nuestro cariño. Pequeños cuidados para nuestro entorno.",
+          "file": "01.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "35151df1088e8acf437bfc18cd73ad13272d341a5a721645ad37b53a93880147",
+          "originalPhoto": {
+            "key": "stream",
+            "basename": "octavio-quebrada.webp",
+            "sha256": "f5a86f1acb9677541af3a0e464048fda3381762aa2648bb15e010e24b20dbcb7",
+            "dimensions": [
+              840,
+              1120
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": {
+              "subject": "Quebrada de Octavio Cordero Palacios",
+              "author": "Martín Vasco (Martin.Vasco593)",
+              "date": "2024-05-10",
+              "source": "https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg",
+              "license": "CC BY 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "02",
+          "layout": "illustration",
+          "title": [
+            "Una quebrada",
+            "merece estar limpia."
+          ],
+          "body": "Llevemos de vuelta los residuos que traemos al camino.",
+          "art": "water",
+          "alt": "Ilustración de una gota de agua y líneas onduladas. Texto: Una quebrada merece estar limpia. Llevemos de vuelta los residuos que traemos al camino.",
+          "file": "02.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "824eaa0ad6d6801405e37ed2f5860f1916f798a0f9c8ed54f4218af6fe71c331",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "03",
+          "layout": "illustration",
+          "title": [
+            "Cada gota",
+            "merece cuidado."
+          ],
+          "body": "Cerrar bien una llave es un gesto que empieza en casa.",
+          "art": "water-detail",
+          "alt": "Ilustración de una llave y una gota de agua, con líneas verdes y acentos naranjas. Texto: Cada gota merece cuidado. Cerrar bien una llave es un gesto que empieza en casa.",
+          "file": "03.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "0233fb0f561babc19b5c4b7d425f2ba17d1dfcb405fd98f53f40cd18d6bc5ffd",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "04",
+          "layout": "photo",
+          "title": [
+            "Dejar espacio",
+            "a la vida."
+          ],
+          "body": "Disfrutemos del paisaje sin llevarnos plantas ni dejar basura.",
+          "photo": "stream",
+          "position": "50% 32%",
+          "alt": "Detalle de la vegetación alrededor de una quebrada de Octavio Cordero Palacios, de Martín Vasco. Texto: Dejar espacio a la vida. Disfrutemos del paisaje sin llevarnos plantas ni dejar basura.",
+          "file": "04.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "e8886dcdfb49717f34e7d911c20c4a4dcb34d44c2123606ed1aabe0981dea2f9",
+          "originalPhoto": {
+            "key": "stream",
+            "basename": "octavio-quebrada.webp",
+            "sha256": "f5a86f1acb9677541af3a0e464048fda3381762aa2648bb15e010e24b20dbcb7",
+            "dimensions": [
+              840,
+              1120
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": {
+              "subject": "Quebrada de Octavio Cordero Palacios",
+              "author": "Martín Vasco (Martin.Vasco593)",
+              "date": "2024-05-10",
+              "source": "https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg",
+              "license": "CC BY 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "05",
+          "layout": "closing",
+          "title": [
+            "El paisaje también",
+            "es nuestro hogar."
+          ],
+          "recap": [
+            "Volver con nuestros residuos",
+            "Cerrar bien las llaves",
+            "Respetar la vegetación"
+          ],
+          "body": "Hagamos del cuidado una costumbre compartida.",
+          "alt": "Resumen: El paisaje también es nuestro hogar. Volver con nuestros residuos, cerrar bien las llaves y respetar la vegetación. Invitación: Hagamos del cuidado una costumbre compartida.",
+          "file": "05.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "3fafbed2e86d0772ccce7696f42a6cc7e6c54cf991bd65aad8ace246f83b6cea",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        }
+      ],
+      "captionChars": 650,
+      "hookChars": 40,
+      "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+      "primaryGoal": "Comunicación pública de valores y cercanía",
+      "cta": "Hagamos del cuidado una costumbre compartida."
+    },
+    {
+      "id": "04-caminos-que-nos-acercan",
+      "name": "Caminos que nos acercan",
+      "kicker": "Caminos que nos acercan",
+      "icon": "road",
+      "planThemes": [
+        "vialidad",
+        "seguridad",
+        "gestion"
+      ],
+      "caption": "Un camino también puede acercarnos a los demás.\n\nUn saludo y un poco de calma hacen más amable un trayecto. Compartir los caminos de Octavio Cordero Palacios también significa dar espacio y ofrecer una mano cuando hace falta.\n\nHoy, hagamos más amable un trayecto cotidiano.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de las casas: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Convivencia",
+      "slides": [
+        {
+          "id": "01",
+          "layout": "cover",
+          "title": [
+            "Un camino",
+            "también puede",
+            "acercarnos."
+          ],
+          "body": "Los encuentros empiezan en lo cotidiano.",
+          "photo": "houses",
+          "position": "50% 65%",
+          "alt": "Vista de casas y del centro de Octavio Cordero Palacios, de Martín Vasco. Texto: Un camino también puede acercarnos. Los encuentros empiezan en lo cotidiano.",
+          "file": "01.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "a22845d8ac8ee4a564c2df8edc39f2f646ebc09617d24bfdf66954a9f8de04a8",
+          "originalPhoto": {
+            "key": "houses",
+            "basename": "octavio-casas.webp",
+            "sha256": "4a0f5c4be8d2ae075a349c530e16526a2565cb3b67afe46ad797afbcd18e69a8",
+            "dimensions": [
+              840,
+              1120
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": {
+              "subject": "Casas de Octavio Cordero Palacios",
+              "author": "Martín Vasco (Martin.Vasco593)",
+              "date": "2024-05-10",
+              "source": "https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg",
+              "license": "CC BY 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "02",
+          "layout": "panorama",
+          "title": [
+            "Un saludo cambia",
+            "el encuentro."
+          ],
+          "body": "Mirarnos y saludarnos hace más amable el camino.",
+          "photo": "group",
+          "position": "50% 50%",
+          "alt": "Cuatro personas juntas al aire libre, con árboles y cielo azul; se conserva la foto completa. Texto: Un saludo cambia el encuentro. Mirarnos y saludarnos hace más amable el camino.",
+          "file": "02.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "407ac1f3ef1da012707e39d03d2a76e708641b85dfb73e150858931de8de3320",
+          "originalPhoto": {
+            "key": "group",
+            "basename": "SANDRA LEMA Y OMAR QUITO.jpeg",
+            "sha256": "b8f2b2149fd4e4e52363443228312b1118af5fdf019c9497b27f03b0aff986f4",
+            "dimensions": [
+              4032,
+              2268
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Fotografía completa dentro del marco; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "03",
+          "layout": "illustration",
+          "title": [
+            "Caminar",
+            "con cuidado."
+          ],
+          "body": "Compartimos el camino: pasemos con calma y demos espacio a los demás.",
+          "art": "path",
+          "alt": "Un camino abstracto dibujado con líneas curvas, puntos y detalles naranjas. Texto: Caminar con cuidado. Compartimos el camino: pasemos con calma y demos espacio a los demás.",
+          "file": "03.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "4df549c898cf26ba1b85db747549cb2b60cfbb1ebc11995b9d6a3286ea176fc0",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "04",
+          "layout": "photo",
+          "title": [
+            "Acompañarnos",
+            "cuando hace falta."
+          ],
+          "body": "Ofrecer una mano, sin prisa y con respeto, también es cuidar la convivencia.",
+          "photo": "conversation",
+          "position": "50% 57%",
+          "alt": "Dos mujeres sonríen y conversan al aire libre, conservando su fotografía original. Texto: Acompañarnos cuando hace falta. Ofrecer una mano, sin prisa y con respeto, también es cuidar la convivencia.",
+          "file": "04.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "f65bd38ed884b014f1be3e59f65bd296f8b739092a51ad00994e78a8cb5e9d84",
+          "originalPhoto": {
+            "key": "conversation",
+            "basename": "SANDRA LEMA Y STEFI.jpeg",
+            "sha256": "0afbc61a85fb1a5bc9b9aa178332281f4418fb7efcb51a714a5e4c4b500cb3e7",
+            "dimensions": [
+              3024,
+              4032
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "05",
+          "layout": "closing",
+          "title": [
+            "Lo importante",
+            "es encontrarnos."
+          ],
+          "recap": [
+            "Saludarnos al pasar",
+            "Dar espacio en el camino",
+            "Acompañarnos con respeto"
+          ],
+          "body": "Hoy, hagamos más amable un trayecto cotidiano.",
+          "alt": "Resumen: Lo importante es encontrarnos. Saludarnos al pasar, dar espacio en el camino y acompañarnos con respeto. Invitación: Hoy, hagamos más amable un trayecto cotidiano.",
+          "file": "05.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "88fab4be917b63d49172162e6e7ef52c43674257227786e314ab6ba37e4b477e",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        }
+      ],
+      "captionChars": 647,
+      "hookChars": 47,
+      "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+      "primaryGoal": "Comunicación pública de valores y cercanía",
+      "cta": "Hoy, hagamos más amable un trayecto cotidiano."
+    },
+    {
+      "id": "05-lo-que-nos-hace-comunidad",
+      "name": "Lo que nos hace comunidad",
+      "kicker": "Lo que nos hace comunidad",
+      "icon": "document",
+      "planThemes": [
+        "inclusion",
+        "gestion"
+      ],
+      "caption": "Hay cosas que nos hacen sentir en casa, incluso en una conversación.\n\nLas historias de Octavio Cordero Palacios y los oficios que se aprenden de otra persona son parte de lo que compartimos. Escuchar con respeto deja un lugar para que esos saberes sigan pasando de una voz a otra.\n\nCompartamos una historia de nuestra parroquia con alguien cercano.\n\nAmor por Octavio Cordero Palacios.\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #NuestrosSaberes",
+      "slides": [
+        {
+          "id": "01",
+          "layout": "cover",
+          "title": [
+            "Hay cosas que",
+            "nos hacen sentir",
+            "en casa."
+          ],
+          "body": "Descubramos lo que compartimos al conversar.",
+          "photo": "portrait",
+          "position": "50% 37%",
+          "alt": "Una mujer con pañuelo naranja está al aire libre, con los brazos cruzados y mirando hacia arriba. Texto: Hay cosas que nos hacen sentir en casa. Descubramos lo que compartimos al conversar.",
+          "file": "01.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "aec0d5e384ddc3d7bf491cc4b3973815c062ae299f0b460611c62ffec9a119c0",
+          "originalPhoto": {
+            "key": "portrait",
+            "basename": "SANDRA LEMA.jpeg",
+            "sha256": "67053881e0da637afdddce21a460bbca459b43eb1c31339e7febdbb19297e52f",
+            "dimensions": [
+              3024,
+              4032
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "02",
+          "layout": "illustration",
+          "title": [
+            "Una historia merece",
+            "ser escuchada."
+          ],
+          "body": "Lo que nos cuentan en casa también forma parte de la memoria de Octavio Cordero.",
+          "art": "story",
+          "alt": "Ilustración de un libro abierto y una línea curva de conversación. Texto: Una historia merece ser escuchada. Lo que nos cuentan en casa también forma parte de la memoria de Octavio Cordero.",
+          "file": "02.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "d6e0629846ced690b04359c74b2cc96377f40be1079f2047f1d2acd3d8017f43",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "03",
+          "layout": "photo",
+          "title": [
+            "Un saber crece",
+            "cuando se comparte."
+          ],
+          "body": "Aprender un oficio de otra persona es una forma de mantenerlo vivo.",
+          "photo": "meeting",
+          "position": "50% 44%",
+          "alt": "Personas conversan alrededor de una mesa con documentos y un computador. Texto: Un saber crece cuando se comparte. Aprender un oficio de otra persona es una forma de mantenerlo vivo.",
+          "file": "03.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "11a4d31090cab57e551f421c007a4311a0bd97ad9e334cd886b7fea9c85f766b",
+          "originalPhoto": {
+            "key": "meeting",
+            "basename": "WhatsApp Image 2026-10-10 at 11.20.47 PM.jpeg",
+            "sha256": "b9ec134e7977a23c8b52afe2cde648a603b0390cab23a6d2bb1b34d7613735ca",
+            "dimensions": [
+              720,
+              1280
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "04",
+          "layout": "photo",
+          "title": [
+            "Hacer lugar",
+            "a otra voz."
+          ],
+          "body": "Todos merecemos una conversación con respeto y sin burlas.",
+          "photo": "seated",
+          "position": "50% 16%",
+          "alt": "Cuatro personas con pañuelos naranjas se encuentran sentadas. Texto: Hacer lugar a otra voz. Todos merecemos una conversación con respeto y sin burlas.",
+          "file": "04.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "fcd2a66a621b04c37b286c68ea07ac47f7f9e46e67a3e54a7895f68c1b9e2258",
+          "originalPhoto": {
+            "key": "seated",
+            "basename": "WhatsApp Image 2026-10-10 at 11.20.46 PM.jpeg",
+            "sha256": "ab238fef6a53863c73035289e78bb4e120695d2efe6f76d051ca6768d0235952",
+            "dimensions": [
+              720,
+              1280
+            ],
+            "unchangedSourceBytes": true,
+            "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+            "credit": null
+          },
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        },
+        {
+          "id": "05",
+          "layout": "closing",
+          "title": [
+            "El cariño se",
+            "vuelve comunidad."
+          ],
+          "recap": [
+            "Escuchar nuestras historias",
+            "Compartir un saber",
+            "Dar lugar a cada voz"
+          ],
+          "body": "Compartamos una historia con alguien cercano.",
+          "alt": "Resumen: El cariño se vuelve comunidad. Escuchar nuestras historias, compartir un saber y dar lugar a cada voz. Invitación: Compartamos una historia con alguien cercano.",
+          "file": "05.png",
+          "imageSize": [
+            1080,
+            1350
+          ],
+          "pngSha256": "9c4c4da81bebbccaa8c0c8e8ed4a3b62280c00008e0eb7b24e3bde9759edfbdf",
+          "originalPhoto": null,
+          "layoutChecks": {
+            "titleFits": true,
+            "bodyFits": true,
+            "noOverlaps": true,
+            "fontsLoaded": true
+          }
+        }
+      ],
+      "captionChars": 457,
+      "hookChars": 68,
+      "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+      "primaryGoal": "Comunicación pública de valores y cercanía",
+      "cta": "Compartamos una historia con alguien cercano."
+    }
+  ],
+  "planSource": "public/content/site.json; extracción del plan de trabajo facilitado por el usuario",
+  "production": {
+    "photos": "Archivos originales sin retoque, filtros ni reconstrucción. Fotografías horizontales de grupo completas. Fotografías verticales recortadas visualmente por CSS.",
+    "nativeIllustrations": "Ilustraciones decorativas de campo, agua, camino, libro y comunidad, construidas con SVG. No representan obras ni actuaciones realizadas.",
+    "background": "Reutilización del fondo decorativo de image_gen integrado y variaciones de color por CSS. No se utilizó generación para personas o paisaje.",
+    "layout": "HTML/CSS, fuentes locales Barlow Condensed 800 y DM Sans, marca vectorial original.",
+    "instagramPublishing": "Diseños y textos, sin publicación en Instagram."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "05-lo-que-nos-hace-comunidad",
+  "name": "Lo que nos hace comunidad",
+  "kicker": "Lo que nos hace comunidad",
+  "icon": "document",
+  "planThemes": [
+    "inclusion",
+    "gestion"
+  ],
+  "caption": "Hay cosas que nos hacen sentir en casa, incluso en una conversación.\n\nLas historias de Octavio Cordero Palacios y los oficios que se aprenden de otra persona son parte de lo que compartimos. Escuchar con respeto deja un lugar para que esos saberes sigan pasando de una voz a otra.\n\nCompartamos una historia de nuestra parroquia con alguien cercano.\n\nAmor por Octavio Cordero Palacios.\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #NuestrosSaberes",
+  "slides": [
+    {
+      "id": "01",
+      "layout": "cover",
+      "title": [
+        "Hay cosas que",
+        "nos hacen sentir",
+        "en casa."
+      ],
+      "body": "Descubramos lo que compartimos al conversar.",
+      "photo": "portrait",
+      "position": "50% 37%",
+      "alt": "Una mujer con pañuelo naranja está al aire libre, con los brazos cruzados y mirando hacia arriba. Texto: Hay cosas que nos hacen sentir en casa. Descubramos lo que compartimos al conversar.",
+      "file": "01.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "aec0d5e384ddc3d7bf491cc4b3973815c062ae299f0b460611c62ffec9a119c0",
+      "originalPhoto": {
+        "key": "portrait",
+        "basename": "SANDRA LEMA.jpeg",
+        "sha256": "67053881e0da637afdddce21a460bbca459b43eb1c31339e7febdbb19297e52f",
+        "dimensions": [
+          3024,
+          4032
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "02",
+      "layout": "illustration",
+      "title": [
+        "Una historia merece",
+        "ser escuchada."
+      ],
+      "body": "Lo que nos cuentan en casa también forma parte de la memoria de Octavio Cordero.",
+      "art": "story",
+      "alt": "Ilustración de un libro abierto y una línea curva de conversación. Texto: Una historia merece ser escuchada. Lo que nos cuentan en casa también forma parte de la memoria de Octavio Cordero.",
+      "file": "02.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "d6e0629846ced690b04359c74b2cc96377f40be1079f2047f1d2acd3d8017f43",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "03",
+      "layout": "photo",
+      "title": [
+        "Un saber crece",
+        "cuando se comparte."
+      ],
+      "body": "Aprender un oficio de otra persona es una forma de mantenerlo vivo.",
+      "photo": "meeting",
+      "position": "50% 44%",
+      "alt": "Personas conversan alrededor de una mesa con documentos y un computador. Texto: Un saber crece cuando se comparte. Aprender un oficio de otra persona es una forma de mantenerlo vivo.",
+      "file": "03.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "11a4d31090cab57e551f421c007a4311a0bd97ad9e334cd886b7fea9c85f766b",
+      "originalPhoto": {
+        "key": "meeting",
+        "basename": "WhatsApp Image 2026-10-10 at 11.20.47 PM.jpeg",
+        "sha256": "b9ec134e7977a23c8b52afe2cde648a603b0390cab23a6d2bb1b34d7613735ca",
+        "dimensions": [
+          720,
+          1280
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "04",
+      "layout": "photo",
+      "title": [
+        "Hacer lugar",
+        "a otra voz."
+      ],
+      "body": "Todos merecemos una conversación con respeto y sin burlas.",
+      "photo": "seated",
+      "position": "50% 16%",
+      "alt": "Cuatro personas con pañuelos naranjas se encuentran sentadas. Texto: Hacer lugar a otra voz. Todos merecemos una conversación con respeto y sin burlas.",
+      "file": "04.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "fcd2a66a621b04c37b286c68ea07ac47f7f9e46e67a3e54a7895f68c1b9e2258",
+      "originalPhoto": {
+        "key": "seated",
+        "basename": "WhatsApp Image 2026-10-10 at 11.20.46 PM.jpeg",
+        "sha256": "ab238fef6a53863c73035289e78bb4e120695d2efe6f76d051ca6768d0235952",
+        "dimensions": [
+          720,
+          1280
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "05",
+      "layout": "closing",
+      "title": [
+        "El cariño se",
+        "vuelve comunidad."
+      ],
+      "recap": [
+        "Escuchar nuestras historias",
+        "Compartir un saber",
+        "Dar lugar a cada voz"
+      ],
+      "body": "Compartamos una historia con alguien cercano.",
+      "alt": "Resumen: El cariño se vuelve comunidad. Escuchar nuestras historias, compartir un saber y dar lugar a cada voz. Invitación: Compartamos una historia con alguien cercano.",
+      "file": "05.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "9c4c4da81bebbccaa8c0c8e8ed4a3b62280c00008e0eb7b24e3bde9759edfbdf",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    }
+  ],
+  "captionChars": 457,
+  "hookChars": 68,
+  "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+  "primaryGoal": "Comunicación pública de valores y cercanía",
+  "cta": "Compartamos una historia con alguien cercano."
+}

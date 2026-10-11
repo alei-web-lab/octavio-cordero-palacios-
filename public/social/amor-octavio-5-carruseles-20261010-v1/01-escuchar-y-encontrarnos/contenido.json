@@ -1,0 +1,179 @@
+{
+  "id": "01-escuchar-y-encontrarnos",
+  "name": "Escuchar y encontrarnos",
+  "kicker": "Escuchar y encontrarnos",
+  "icon": "community",
+  "planThemes": [
+    "gestion",
+    "inclusion"
+  ],
+  "caption": "A veces, estar cerca empieza por escuchar con calma.\n\nDar tiempo a una voz y dejar espacio para una idea son gestos que podemos compartir en Octavio Cordero Palacios. Una conversación merece nuestra atención, aunque pensemos distinto.\n\nHoy, regalemos un momento de atención a alguien cercano.\n\nAmor por Octavio Cordero Palacios.\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Comunidad",
+  "slides": [
+    {
+      "id": "01",
+      "layout": "cover",
+      "title": [
+        "A veces, todo",
+        "empieza con",
+        "escuchar."
+      ],
+      "body": "Estos gestos cotidianos nos acercan.",
+      "photo": "meeting",
+      "position": "50% 44%",
+      "alt": "Cuatro personas conversan alrededor de una mesa con documentos y un computador. El diseño dice: A veces, todo empieza con escuchar. Estos gestos cotidianos nos acercan.",
+      "file": "01.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "cbbe22d2fe372515041c668847f5e3ff96d4b9fd8f0b1bcaf06015e6e9e53d5e",
+      "originalPhoto": {
+        "key": "meeting",
+        "basename": "WhatsApp Image 2026-10-10 at 11.20.47 PM.jpeg",
+        "sha256": "b9ec134e7977a23c8b52afe2cde648a603b0390cab23a6d2bb1b34d7613735ca",
+        "dimensions": [
+          720,
+          1280
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "02",
+      "layout": "photo",
+      "title": [
+        "Dar tiempo",
+        "a una voz."
+      ],
+      "body": "Escuchar sin interrumpir es una forma sencilla de respeto.",
+      "photo": "seated",
+      "position": "50% 16%",
+      "alt": "Cuatro personas con pañuelos naranjas están sentadas y miran en la misma dirección. Texto: Dar tiempo a una voz. Escuchar sin interrumpir es una forma sencilla de respeto.",
+      "file": "02.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "5d998164f461778ed29cf3be0062e594f78b3d6847cbad761c397e3bdac84921",
+      "originalPhoto": {
+        "key": "seated",
+        "basename": "WhatsApp Image 2026-10-10 at 11.20.46 PM.jpeg",
+        "sha256": "ab238fef6a53863c73035289e78bb4e120695d2efe6f76d051ca6768d0235952",
+        "dimensions": [
+          720,
+          1280
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "03",
+      "layout": "illustration",
+      "title": [
+        "Preguntar",
+        "con cariño."
+      ],
+      "body": "«¿Cómo estás?» puede abrir una conversación que hacía falta.",
+      "art": "community",
+      "alt": "Ilustración de personas unidas por líneas suaves, con acentos naranjas. Texto: Preguntar con cariño. ¿Cómo estás? puede abrir una conversación que hacía falta.",
+      "file": "03.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "ed50fb78afaf8d01e90649f04baa7ebd0b35a403b2d2b303e17e6692a0057a5a",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "04",
+      "layout": "photo",
+      "title": [
+        "Una idea merece",
+        "un lugar."
+      ],
+      "body": "Conversar con calma deja espacio para pensar juntos.",
+      "photo": "conversation",
+      "position": "50% 53%",
+      "alt": "Dos mujeres con pañuelos naranjas sonríen y conversan al aire libre. Texto: Una idea merece un lugar. Conversar con calma deja espacio para pensar juntos.",
+      "file": "04.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "633baf2d46be2c1c8e00fe1e9decf21496209023b527f95f303e4f0dde29a80b",
+      "originalPhoto": {
+        "key": "conversation",
+        "basename": "SANDRA LEMA Y STEFI.jpeg",
+        "sha256": "0afbc61a85fb1a5bc9b9aa178332281f4418fb7efcb51a714a5e4c4b500cb3e7",
+        "dimensions": [
+          3024,
+          4032
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "05",
+      "layout": "closing",
+      "title": [
+        "La cercanía",
+        "se cuida cada día."
+      ],
+      "recap": [
+        "Tiempo para escuchar",
+        "Preguntas con cariño",
+        "Espacio para las ideas"
+      ],
+      "body": "Hoy, regalemos un momento de atención.",
+      "alt": "Resumen sobre un fondo claro: La cercanía se cuida cada día. Tiempo para escuchar, preguntas con cariño y espacio para las ideas. Invitación: Hoy, regalemos un momento de atención.",
+      "file": "05.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "43a276b729481af79d63256c4db19a98ff79931738c23185fff88776feaed77f",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    }
+  ],
+  "captionChars": 395,
+  "hookChars": 52,
+  "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+  "primaryGoal": "Comunicación pública de valores y cercanía",
+  "cta": "Hoy, regalemos un momento de atención."
+}

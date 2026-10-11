@@ -1,0 +1,180 @@
+{
+  "id": "03-el-agua-y-la-vida",
+  "name": "El agua y la vida",
+  "kicker": "El agua y la vida",
+  "icon": "droplet",
+  "planThemes": [
+    "ambiente"
+  ],
+  "caption": "El agua también necesita nuestro cariño.\n\nCerrar bien una llave y llevar de vuelta los residuos de un paseo son formas sencillas de cuidar nuestro entorno. Las quebradas y la vegetación de Octavio Cordero Palacios forman parte de nuestro hogar.\n\nHagamos del cuidado una costumbre compartida.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de la quebrada: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #CuidemosElAgua",
+  "slides": [
+    {
+      "id": "01",
+      "layout": "cover",
+      "title": [
+        "El agua también",
+        "necesita nuestro",
+        "cariño."
+      ],
+      "body": "Pequeños cuidados para nuestro entorno.",
+      "photo": "stream",
+      "position": "50% 52%",
+      "alt": "Vegetación y quebrada de Octavio Cordero Palacios, fotografiadas por Martín Vasco. Texto: El agua también necesita nuestro cariño. Pequeños cuidados para nuestro entorno.",
+      "file": "01.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "35151df1088e8acf437bfc18cd73ad13272d341a5a721645ad37b53a93880147",
+      "originalPhoto": {
+        "key": "stream",
+        "basename": "octavio-quebrada.webp",
+        "sha256": "f5a86f1acb9677541af3a0e464048fda3381762aa2648bb15e010e24b20dbcb7",
+        "dimensions": [
+          840,
+          1120
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": {
+          "subject": "Quebrada de Octavio Cordero Palacios",
+          "author": "Martín Vasco (Martin.Vasco593)",
+          "date": "2024-05-10",
+          "source": "https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "02",
+      "layout": "illustration",
+      "title": [
+        "Una quebrada",
+        "merece estar limpia."
+      ],
+      "body": "Llevemos de vuelta los residuos que traemos al camino.",
+      "art": "water",
+      "alt": "Ilustración de una gota de agua y líneas onduladas. Texto: Una quebrada merece estar limpia. Llevemos de vuelta los residuos que traemos al camino.",
+      "file": "02.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "824eaa0ad6d6801405e37ed2f5860f1916f798a0f9c8ed54f4218af6fe71c331",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "03",
+      "layout": "illustration",
+      "title": [
+        "Cada gota",
+        "merece cuidado."
+      ],
+      "body": "Cerrar bien una llave es un gesto que empieza en casa.",
+      "art": "water-detail",
+      "alt": "Ilustración de una llave y una gota de agua, con líneas verdes y acentos naranjas. Texto: Cada gota merece cuidado. Cerrar bien una llave es un gesto que empieza en casa.",
+      "file": "03.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "0233fb0f561babc19b5c4b7d425f2ba17d1dfcb405fd98f53f40cd18d6bc5ffd",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "04",
+      "layout": "photo",
+      "title": [
+        "Dejar espacio",
+        "a la vida."
+      ],
+      "body": "Disfrutemos del paisaje sin llevarnos plantas ni dejar basura.",
+      "photo": "stream",
+      "position": "50% 32%",
+      "alt": "Detalle de la vegetación alrededor de una quebrada de Octavio Cordero Palacios, de Martín Vasco. Texto: Dejar espacio a la vida. Disfrutemos del paisaje sin llevarnos plantas ni dejar basura.",
+      "file": "04.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "e8886dcdfb49717f34e7d911c20c4a4dcb34d44c2123606ed1aabe0981dea2f9",
+      "originalPhoto": {
+        "key": "stream",
+        "basename": "octavio-quebrada.webp",
+        "sha256": "f5a86f1acb9677541af3a0e464048fda3381762aa2648bb15e010e24b20dbcb7",
+        "dimensions": [
+          840,
+          1120
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": {
+          "subject": "Quebrada de Octavio Cordero Palacios",
+          "author": "Martín Vasco (Martin.Vasco593)",
+          "date": "2024-05-10",
+          "source": "https://commons.wikimedia.org/wiki/File:Quebrada_en_la_parroquia_rural_Octavio_Cordero_Palacios.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "05",
+      "layout": "closing",
+      "title": [
+        "El paisaje también",
+        "es nuestro hogar."
+      ],
+      "recap": [
+        "Volver con nuestros residuos",
+        "Cerrar bien las llaves",
+        "Respetar la vegetación"
+      ],
+      "body": "Hagamos del cuidado una costumbre compartida.",
+      "alt": "Resumen: El paisaje también es nuestro hogar. Volver con nuestros residuos, cerrar bien las llaves y respetar la vegetación. Invitación: Hagamos del cuidado una costumbre compartida.",
+      "file": "05.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "3fafbed2e86d0772ccce7696f42a6cc7e6c54cf991bd65aad8ace246f83b6cea",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    }
+  ],
+  "captionChars": 650,
+  "hookChars": 40,
+  "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+  "primaryGoal": "Comunicación pública de valores y cercanía",
+  "cta": "Hagamos del cuidado una costumbre compartida."
+}

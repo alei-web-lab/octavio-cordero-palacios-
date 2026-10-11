@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-10",
+  "totalCarousels": 5,
+  "totalSlides": 25,
+  "format": [
+    1080,
+    1350
+  ],
+  "copyChecks": [
+    {
+      "id": "01-escuchar-y-encontrarnos",
+      "captionChars": 395,
+      "firstLineChars": 52,
+      "slideCount": 5,
+      "threeOptionalHashtags": true,
+      "oneClosingInvitation": true,
+      "noFutureWorkPromises": true,
+      "noInventedAchievements": true
+    },
+    {
+      "id": "02-el-carino-por-la-tierra",
+      "captionChars": 680,
+      "firstLineChars": 61,
+      "slideCount": 5,
+      "threeOptionalHashtags": true,
+      "oneClosingInvitation": true,
+      "noFutureWorkPromises": true,
+      "noInventedAchievements": true
+    },
+    {
+      "id": "03-el-agua-y-la-vida",
+      "captionChars": 650,
+      "firstLineChars": 40,
+      "slideCount": 5,
+      "threeOptionalHashtags": true,
+      "oneClosingInvitation": true,
+      "noFutureWorkPromises": true,
+      "noInventedAchievements": true
+    },
+    {
+      "id": "04-caminos-que-nos-acercan",
+      "captionChars": 647,
+      "firstLineChars": 47,
+      "slideCount": 5,
+      "threeOptionalHashtags": true,
+      "oneClosingInvitation": true,
+      "noFutureWorkPromises": true,
+      "noInventedAchievements": true
+    },
+    {
+      "id": "05-lo-que-nos-hace-comunidad",
+      "captionChars": 457,
+      "firstLineChars": 68,
+      "slideCount": 5,
+      "threeOptionalHashtags": true,
+      "oneClosingInvitation": true,
+      "noFutureWorkPromises": true,
+      "noInventedAchievements": true
+    }
+  ],
+  "renderChecks": {
+    "allTitlesWithinMargins": true,
+    "allBodyWithinMargins": true,
+    "noTextImageOverlap": true,
+    "localFontsLoaded": true,
+    "originalPhotoBytesUsed": true,
+    "horizontalGroupPhotoComplete": true,
+    "allImagesDecoded": true
+  },
+  "archives": [
+    {
+      "file": "01-escuchar-y-encontrarnos.zip",
+      "bytes": 5712223,
+      "sha256": "548ebc32030462e00b5f2ad2c91eb44496e8137271e402e7eb40a5ef4eb510cf",
+      "entries": 12
+    },
+    {
+      "file": "02-el-carino-por-la-tierra.zip",
+      "bytes": 5533755,
+      "sha256": "8ebdde0cf95bc0a5657e4c79a197651dfb1a74cd94ac710003677efabf144273",
+      "entries": 12
+    },
+    {
+      "file": "03-el-agua-y-la-vida.zip",
+      "bytes": 4689095,
+      "sha256": "339e3ae3c7f12c322e20b15eb8cd80c27864d940c036c9125913a824f5b74c3e",
+      "entries": 12
+    },
+    {
+      "file": "04-caminos-que-nos-acercan.zip",
+      "bytes": 6121270,
+      "sha256": "e894f51bc9716e6b9e9b305880a53cebf984a090bc0e9961b4bdbb71de0c2411",
+      "entries": 12
+    },
+    {
+      "file": "05-lo-que-nos-hace-comunidad.zip",
+      "bytes": 4389080,
+      "sha256": "a059a51cb7eca5ef8392263333eaeb43a8d945e22357014485a4fad9c67f90b0",
+      "entries": 12
+    }
+  ],
+  "visualReview": "Reviewed all five contact sheets (25 slides) and full-size photos/updated illustrations; corrected seated-photo crops and tap illustration bounds before delivery"
+}

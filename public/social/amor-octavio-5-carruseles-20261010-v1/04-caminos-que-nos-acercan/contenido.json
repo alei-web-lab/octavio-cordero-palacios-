@@ -1,0 +1,187 @@
+{
+  "id": "04-caminos-que-nos-acercan",
+  "name": "Caminos que nos acercan",
+  "kicker": "Caminos que nos acercan",
+  "icon": "road",
+  "planThemes": [
+    "vialidad",
+    "seguridad",
+    "gestion"
+  ],
+  "caption": "Un camino también puede acercarnos a los demás.\n\nUn saludo y un poco de calma hacen más amable un trayecto. Compartir los caminos de Octavio Cordero Palacios también significa dar espacio y ofrecer una mano cuando hace falta.\n\nHoy, hagamos más amable un trayecto cotidiano.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de las casas: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Convivencia",
+  "slides": [
+    {
+      "id": "01",
+      "layout": "cover",
+      "title": [
+        "Un camino",
+        "también puede",
+        "acercarnos."
+      ],
+      "body": "Los encuentros empiezan en lo cotidiano.",
+      "photo": "houses",
+      "position": "50% 65%",
+      "alt": "Vista de casas y del centro de Octavio Cordero Palacios, de Martín Vasco. Texto: Un camino también puede acercarnos. Los encuentros empiezan en lo cotidiano.",
+      "file": "01.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "a22845d8ac8ee4a564c2df8edc39f2f646ebc09617d24bfdf66954a9f8de04a8",
+      "originalPhoto": {
+        "key": "houses",
+        "basename": "octavio-casas.webp",
+        "sha256": "4a0f5c4be8d2ae075a349c530e16526a2565cb3b67afe46ad797afbcd18e69a8",
+        "dimensions": [
+          840,
+          1120
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": {
+          "subject": "Casas de Octavio Cordero Palacios",
+          "author": "Martín Vasco (Martin.Vasco593)",
+          "date": "2024-05-10",
+          "source": "https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "02",
+      "layout": "panorama",
+      "title": [
+        "Un saludo cambia",
+        "el encuentro."
+      ],
+      "body": "Mirarnos y saludarnos hace más amable el camino.",
+      "photo": "group",
+      "position": "50% 50%",
+      "alt": "Cuatro personas juntas al aire libre, con árboles y cielo azul; se conserva la foto completa. Texto: Un saludo cambia el encuentro. Mirarnos y saludarnos hace más amable el camino.",
+      "file": "02.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "407ac1f3ef1da012707e39d03d2a76e708641b85dfb73e150858931de8de3320",
+      "originalPhoto": {
+        "key": "group",
+        "basename": "SANDRA LEMA Y OMAR QUITO.jpeg",
+        "sha256": "b8f2b2149fd4e4e52363443228312b1118af5fdf019c9497b27f03b0aff986f4",
+        "dimensions": [
+          4032,
+          2268
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Fotografía completa dentro del marco; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "03",
+      "layout": "illustration",
+      "title": [
+        "Caminar",
+        "con cuidado."
+      ],
+      "body": "Compartimos el camino: pasemos con calma y demos espacio a los demás.",
+      "art": "path",
+      "alt": "Un camino abstracto dibujado con líneas curvas, puntos y detalles naranjas. Texto: Caminar con cuidado. Compartimos el camino: pasemos con calma y demos espacio a los demás.",
+      "file": "03.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "4df549c898cf26ba1b85db747549cb2b60cfbb1ebc11995b9d6a3286ea176fc0",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "04",
+      "layout": "photo",
+      "title": [
+        "Acompañarnos",
+        "cuando hace falta."
+      ],
+      "body": "Ofrecer una mano, sin prisa y con respeto, también es cuidar la convivencia.",
+      "photo": "conversation",
+      "position": "50% 57%",
+      "alt": "Dos mujeres sonríen y conversan al aire libre, conservando su fotografía original. Texto: Acompañarnos cuando hace falta. Ofrecer una mano, sin prisa y con respeto, también es cuidar la convivencia.",
+      "file": "04.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "f65bd38ed884b014f1be3e59f65bd296f8b739092a51ad00994e78a8cb5e9d84",
+      "originalPhoto": {
+        "key": "conversation",
+        "basename": "SANDRA LEMA Y STEFI.jpeg",
+        "sha256": "0afbc61a85fb1a5bc9b9aa178332281f4418fb7efcb51a714a5e4c4b500cb3e7",
+        "dimensions": [
+          3024,
+          4032
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "05",
+      "layout": "closing",
+      "title": [
+        "Lo importante",
+        "es encontrarnos."
+      ],
+      "recap": [
+        "Saludarnos al pasar",
+        "Dar espacio en el camino",
+        "Acompañarnos con respeto"
+      ],
+      "body": "Hoy, hagamos más amable un trayecto cotidiano.",
+      "alt": "Resumen: Lo importante es encontrarnos. Saludarnos al pasar, dar espacio en el camino y acompañarnos con respeto. Invitación: Hoy, hagamos más amable un trayecto cotidiano.",
+      "file": "05.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "88fab4be917b63d49172162e6e7ef52c43674257227786e314ab6ba37e4b477e",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    }
+  ],
+  "captionChars": 647,
+  "hookChars": 47,
+  "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+  "primaryGoal": "Comunicación pública de valores y cercanía",
+  "cta": "Hoy, hagamos más amable un trayecto cotidiano."
+}

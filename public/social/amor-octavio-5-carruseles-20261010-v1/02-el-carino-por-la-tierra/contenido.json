@@ -1,0 +1,175 @@
+{
+  "id": "02-el-carino-por-la-tierra",
+  "name": "El cariño por la tierra",
+  "kicker": "El cariño por la tierra",
+  "icon": "leaf",
+  "planThemes": [
+    "produccion",
+    "ambiente",
+    "inclusion"
+  ],
+  "caption": "El cariño por esta tierra también se cultiva en lo cotidiano.\n\nValorar un alimento es reconocer a las manos que lo hicieron posible. Los productos de nuestra parroquia y los saberes que se comparten merecen un lugar en la conversación.\n\nDemos un lugar a los productos de Octavio Cordero Palacios en nuestra mesa.\n\nAmor por Octavio Cordero Palacios.\n\nFoto de las casas: Martín Vasco / Wikimedia Commons, CC BY 4.0. Recorte de encuadre. Fuente: https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg\nLicencia: https://creativecommons.org/licenses/by/4.0/\n\n#AmorPorOctavioCorderoPalacios #OctavioCorderoPalacios #Campo",
+  "slides": [
+    {
+      "id": "01",
+      "layout": "cover-art",
+      "title": [
+        "El cariño por",
+        "esta tierra también",
+        "se cultiva."
+      ],
+      "body": "En lo cotidiano, en lo que compartimos.",
+      "art": "field",
+      "alt": "Ilustración de una planta y surcos, sobre fondo marfil con detalles verdes y naranjas. Texto: El cariño por esta tierra también se cultiva. En lo cotidiano, en lo que compartimos.",
+      "file": "01.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "501d2f3fdafdcc7d881b15156ec13c4987cb6dd1980a8a0bfacf365651d57cb3",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "02",
+      "layout": "illustration",
+      "title": [
+        "Detrás de cada",
+        "alimento hay manos."
+      ],
+      "body": "Reconocer ese trabajo empieza por valorar lo que llega a nuestra mesa.",
+      "art": "harvest",
+      "alt": "Dibujo de una canasta con alimentos y hojas. Texto: Detrás de cada alimento hay manos. Reconocer ese trabajo empieza por valorar lo que llega a nuestra mesa.",
+      "file": "02.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "8bc531aaf96614a033a441d002545a1bca3f7ca132966ec776c8a389fd71e5be",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "03",
+      "layout": "photo",
+      "title": [
+        "Lo de aquí",
+        "tiene una historia."
+      ],
+      "body": "Un producto local nos acerca a quien lo cultiva y a sus saberes.",
+      "photo": "houses",
+      "position": "50% 57%",
+      "alt": "Casas antiguas del centro de Octavio Cordero Palacios, fotografiadas por Martín Vasco. Texto: Lo de aquí tiene una historia. Un producto local nos acerca a quien lo cultiva y a sus saberes.",
+      "file": "03.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "9ac797a28ad93a4a7d9b8ff4fdf948f968509dfd50ab642c785c5982530545ba",
+      "originalPhoto": {
+        "key": "houses",
+        "basename": "octavio-casas.webp",
+        "sha256": "4a0f5c4be8d2ae075a349c530e16526a2565cb3b67afe46ad797afbcd18e69a8",
+        "dimensions": [
+          840,
+          1120
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Recorte visual con CSS; sin filtros ni retoque",
+        "credit": {
+          "subject": "Casas de Octavio Cordero Palacios",
+          "author": "Martín Vasco (Martin.Vasco593)",
+          "date": "2024-05-10",
+          "source": "https://commons.wikimedia.org/wiki/File:Casas_antiguas_en_el_centro_urbano_de_la_parroquia_Octavio_Cordero_Palacios.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "04",
+      "layout": "panorama",
+      "title": [
+        "Compartir lo",
+        "que sabemos."
+      ],
+      "body": "Una conversación entre vecinos puede mantener vivo un oficio.",
+      "photo": "group",
+      "position": "50% 50%",
+      "alt": "Fotografía completa de cuatro personas juntas al aire libre, entre árboles y bajo un cielo azul. Texto: Compartir lo que sabemos. Una conversación entre vecinos puede mantener vivo un oficio.",
+      "file": "04.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "bc9ffba4cd3a49bb4536499554d8ab27d80af36ca876b4db4e97bf7aa7c5b4cc",
+      "originalPhoto": {
+        "key": "group",
+        "basename": "SANDRA LEMA Y OMAR QUITO.jpeg",
+        "sha256": "b8f2b2149fd4e4e52363443228312b1118af5fdf019c9497b27f03b0aff986f4",
+        "dimensions": [
+          4032,
+          2268
+        ],
+        "unchangedSourceBytes": true,
+        "treatment": "Fotografía completa dentro del marco; sin filtros ni retoque",
+        "credit": null
+      },
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    },
+    {
+      "id": "05",
+      "layout": "closing",
+      "title": [
+        "La tierra merece",
+        "nuestro cariño."
+      ],
+      "recap": [
+        "Valorar cada alimento",
+        "Reconocer a quien lo cultiva",
+        "Compartir nuestros saberes"
+      ],
+      "body": "Demos un lugar a los productos de nuestra parroquia.",
+      "alt": "Resumen ilustrado: La tierra merece nuestro cariño. Valorar cada alimento, reconocer a quien lo cultiva y compartir nuestros saberes. Invitación: Demos un lugar a los productos de nuestra parroquia.",
+      "file": "05.png",
+      "imageSize": [
+        1080,
+        1350
+      ],
+      "pngSha256": "dedc8c5a0650d6ac973c076b4c0df57d273034e99a85235b7ecbb57f49a50035",
+      "originalPhoto": null,
+      "layoutChecks": {
+        "titleFits": true,
+        "bodyFits": true,
+        "noOverlaps": true,
+        "fontsLoaded": true
+      }
+    }
+  ],
+  "captionChars": 680,
+  "hookChars": 61,
+  "formula": "Recorrido de gestos cotidianos: invitación, tres ideas y cierre con una acción amable",
+  "primaryGoal": "Comunicación pública de valores y cercanía",
+  "cta": "Demos un lugar a los productos de nuestra parroquia."
+}

@@ -1,0 +1,20 @@
+PROCESO DE DISEÑO
+
+25 imágenes finales, cinco carruseles de cinco slides. Se compusieron en HTML/CSS con fuentes locales y la marca SVG existente. La jerarquía alterna fotografía, dibujo lineal y resumen. El naranja #FF5D15 se usa en acentos sobre marfil #FFFAF6 y verde muy claro; titulares en verde oscuro #213328.
+
+Las fotografías se insertaron usando los bytes originales suministrados por el usuario y los WebP ya acreditados de Octavio Cordero Palacios. No se retocaron rostros, ropa, objetos, documentos, colores o lugares. Las fotografías de grupo horizontales mantienen todo el encuadre. Las imágenes verticales tienen un recorte editorial por CSS. Las ilustraciones no son fotografías ni documentan actividades de campaña.
+
+Se reutiliza el fondo decorativo generado con image_gen integrado, sin usar CLI ni una clave API propia. No se generaron nuevas personas, escenas o fotografías. El recurso reutilizado se encuentra en ../amor-octavio-fotos-20261010-v1/fondo-editorial.png.
+
+PROMPT ORIGINAL DEL FONDO REUTILIZADO
+
+FONDO GENERADO CON IMAGE_GEN INTEGRADO
+
+Use case: ads-marketing. Asset type: a reusable editorial paper background for Instagram graphic layouts, vertical 4:5. Generate ONLY the background, absolutely no people, photographs, text, letters, logos, numbers, icons or political insignia. Warm off-white ivory #FFFAF6 is 94% of the canvas; very pale peach #FFF0E6 glows at the upper-right and lower-left corners. Add two delicate organic curved paper ribbons at the corners in a subtle peach-to-clear gradient, with a single fine restrained orange #FF5D15 curve near one edge. Keep the central 85% completely empty and clean for placing original unretouched photographs and typography later. Premium editorial finish, understated, fresh, large calm negative space, no orange flood, no 3D mockup, no shadows cast by nonexistent objects, no grunge, no watermark. The output is a flat reusable surface only; the portraits and text will be composed later from existing native assets.
+
+PROCESO
+Se generó únicamente el fondo editorial. Los posts finales se maquetaron usando los bytes de los JPEG originales, fuentes web locales y la marca SVG del proyecto. No se regeneraron personas, escenas ni documentos. Los encuadres verticales se recortan visualmente; la fotografía horizontal de grupo se muestra completa.
+
+
+SKILLS DE INSTAGRAM
+ig-carousel-planner: invitación inicial, ideas claras y cierre con una sola acción. ig-caption-writer e ig-humanizer: apertura breve, tono natural, revisión de promesas, cifras inventadas y frases artificiosas. No se utilizaron datos de audiencia, publicación automática ni medición de hashtags.
