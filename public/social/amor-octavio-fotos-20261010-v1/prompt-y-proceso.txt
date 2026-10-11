@@ -1,0 +1,6 @@
+FONDO GENERADO CON IMAGE_GEN INTEGRADO
+
+Use case: ads-marketing. Asset type: a reusable editorial paper background for Instagram graphic layouts, vertical 4:5. Generate ONLY the background, absolutely no people, photographs, text, letters, logos, numbers, icons or political insignia. Warm off-white ivory #FFFAF6 is 94% of the canvas; very pale peach #FFF0E6 glows at the upper-right and lower-left corners. Add two delicate organic curved paper ribbons at the corners in a subtle peach-to-clear gradient, with a single fine restrained orange #FF5D15 curve near one edge. Keep the central 85% completely empty and clean for placing original unretouched photographs and typography later. Premium editorial finish, understated, fresh, large calm negative space, no orange flood, no 3D mockup, no shadows cast by nonexistent objects, no grunge, no watermark. The output is a flat reusable surface only; the portraits and text will be composed later from existing native assets.
+
+PROCESO
+Se generó únicamente el fondo editorial. Los posts finales se maquetaron usando los bytes de los JPEG originales, fuentes web locales y la marca SVG del proyecto. No se regeneraron personas, escenas ni documentos. Los encuadres verticales se recortan visualmente; la fotografía horizontal de grupo se muestra completa.

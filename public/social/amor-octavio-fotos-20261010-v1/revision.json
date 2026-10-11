@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-10",
+  "skill": "instagram-marketing / ig-caption-writer / ig-humanizer",
+  "voice": "Tono breve y cercano solicitado; perfil de voz no configurado",
+  "formula": "IG3 / momento reconocible de las fotografías",
+  "primaryGoal": "Conversación general sobre las ideas compartidas",
+  "posts": [
+    {
+      "file": "01-seguimos-trabajando.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "08f10e9f95afbb92a0397c2a678dc51476238215f3aaee7d7c13efccc7f7ab29",
+      "captionChars": 290,
+      "hookChars": 57,
+      "hashtags": 3,
+      "photoOriginalBytesVerified": true,
+      "visualReview": "Revisado con la fotografía original: no retoque de personas ni de la escena",
+      "copyReview": "Idea única, pregunta concreta, sin logros inventados ni datos de lista, sin recursos de énfasis artificiales"
+    },
+    {
+      "file": "02-escuchar-es-trabajar.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "a427d2627668b6bb975f3cc500b6487f6fb6e43b3c886617e97e0b0463c5954a",
+      "captionChars": 271,
+      "hookChars": 29,
+      "hashtags": 3,
+      "photoOriginalBytesVerified": true,
+      "visualReview": "Revisado con la fotografía original: no retoque de personas ni de la escena",
+      "copyReview": "Idea única, pregunta concreta, sin logros inventados ni datos de lista, sin recursos de énfasis artificiales"
+    },
+    {
+      "file": "03-compartiendo-el-camino.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "869ee9556d6e17b78173bef27e420c6d6a4794e6f6f02d753a9ec7d06ab969cf",
+      "captionChars": 283,
+      "hookChars": 45,
+      "hashtags": 3,
+      "photoOriginalBytesVerified": true,
+      "visualReview": "Revisado con la fotografía original: no retoque de personas ni de la escena",
+      "copyReview": "Idea única, pregunta concreta, sin logros inventados ni datos de lista, sin recursos de énfasis artificiales"
+    },
+    {
+      "file": "04-ideas-al-conversar.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "7b0d68910d72423af5c4e104b947155a66e294c27bdfd77505656e70f64607b3",
+      "captionChars": 301,
+      "hookChars": 36,
+      "hashtags": 3,
+      "photoOriginalBytesVerified": true,
+      "visualReview": "Revisado con la fotografía original: no retoque de personas ni de la escena",
+      "copyReview": "Idea única, pregunta concreta, sin logros inventados ni datos de lista, sin recursos de énfasis artificiales"
+    },
+    {
+      "file": "05-inspirados-por-octavio.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "0445e801346e110c0bfd11588c104d75ce618affaa7ab859a39d93c05cecb7b0",
+      "captionChars": 271,
+      "hookChars": 40,
+      "hashtags": 3,
+      "photoOriginalBytesVerified": true,
+      "visualReview": "Revisado con la fotografía original: no retoque de personas ni de la escena",
+      "copyReview": "Idea única, pregunta concreta, sin logros inventados ni datos de lista, sin recursos de énfasis artificiales"
+    }
+  ]
+}
