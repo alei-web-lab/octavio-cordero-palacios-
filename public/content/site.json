@@ -25,9 +25,9 @@
     "guidePlan": "Plan de trabajo",
     "guideContact": "Canales de contacto",
     "movementTitle": "Un espacio para\nconocer",
-    "movementLead": "Renovación 63 reúne a un equipo de cinco personas que aspiran a integrar el GAD parroquial de Octavio Cordero Palacios.",
+    "movementLead": "Renovación 63 reúne a un equipo de personas que aspiran a integrar el GAD parroquial de Octavio Cordero Palacios.",
     "movementBody": "Este espacio reúne la información del movimiento: quiénes lo integran, qué propuestas presentan y cómo contactar al equipo.",
-    "movementNote": "Estamos preparando el contenido oficial. Las fotografías del equipo, las biografías y los canales pendientes se identifican en cada sección.",
+    "movementNote": "",
     "movementLink": "Consultar el plan",
     "discoveryTitle": "Explora los temas del plan",
     "discoveryText": "Elige un tema para conocer sus propuestas.",
@@ -38,8 +38,8 @@
     "planFootnote": "Las acciones que requieren coordinación con otras instituciones conservan ese alcance. Consulta los objetivos, las metas y la programación en el documento del plan.",
     "planPrint": "Imprimir resumen",
     "planSearch": "Buscar en el plan",
-    "teamTitle": "Conoce al equipo",
-    "teamDescription": "Cinco personas. Sus nombres y roles, en un solo lugar.",
+    "teamTitle": "Conoce a nuestro equipo",
+    "teamDescription": "Cinco líderes, una visión compartida y un compromiso con nuestra gente. Hoy aspiramos a escribir una nueva historia para Octavio Cordero Palacios, con responsabilidad, unidad y amor por nuestra tierra",
     "teamNote": "Fotografías y trayectorias pendientes de incorporar.",
     "profileButton": "Ver perfil",
     "portraitPending": "Fotografía pendiente",
@@ -163,36 +163,36 @@
     {
       "name": "Sandra Jackeline Lema Chalco",
       "role": "Presidenta",
-      "photo": "",
-      "bio": "Sandra Jackeline Lema Chalco forma parte del equipo con el rol de presidenta. Su trayectoria y experiencia se publicarán cuando estén confirmadas.",
+      "photo": "/uploads/15621332-5cd8-44f6-9276-3ddb5a4ef924.jpg",
+      "bio": "Abogada, madre y líder por vocación. Sandra Jackeline Lema Chalco Lema es la mente estratégica que guía a nuestro equipo, con experiencia, visión y un profundo compromiso con nuestra gente.\n\nUna mujer que lidera con inteligencia, inspira con el corazón y trabaja por amor a Octavio Cordero Palacios.",
       "confirmed": true
     },
     {
       "name": "Claudio Milton Chuqui",
       "role": "Vicepresidente",
       "photo": "",
-      "bio": "Claudio Milton Chuqui forma parte del equipo con el rol de vicepresidente. Su trayectoria y experiencia se publicarán cuando estén confirmadas.",
+      "bio": "Claudio Milton Chuqui Liderazgo, creatividad y compromiso. \n\nUn líder por naturaleza, de carácter firme, ideas innovadoras y una sensibilidad que refleja sus valores humanos. Su experiencia en instituciones públicas y el ejercicio de cargos de responsabilidad respaldan su capacidad para asumir grandes desafíos.",
       "confirmed": true
     },
     {
       "name": "Delia Isabel Pineda Tenen",
       "role": "Tesorera",
       "photo": "",
-      "bio": "Delia Isabel Pineda Tenen forma parte del equipo con el rol de tesorera. Su trayectoria y experiencia se publicarán cuando estén confirmadas.",
+      "bio": "Delia Isabel Pineda Tenen Carácter, fuerza y determinación. \n\nChef profesional, emprendedora y madre. Delia representa la firmeza y la energía de un equipo que no teme a los desafíos. Su experiencia administrativa en el sector privado, su carácter decidido y su capacidad para liderar la convierten en una mujer que transforma las ideas en acciones.\n\nPorque los grandes cambios necesitan mujeres valientes, decisiones firmes y un corazón comprometido con su gente",
       "confirmed": true
     },
     {
       "name": "Sandra Estefania Puma Cantos",
       "role": "Secretaria",
-      "photo": "",
-      "bio": "Sandra Estefania Puma Cantos forma parte del equipo con el rol de secretaria. Su trayectoria y experiencia se publicarán cuando estén confirmadas.",
+      "photo": "/uploads/8a81f189-1834-4367-b252-4d07dba4b76e.jpg",
+      "bio": "Sandra Estefanía Puma Cantos Sensibilidad, visión y compromiso. \nUna mujer que escucha con el corazón, propone con inteligencia y trabaja con discreción. Su conocimiento de cada sector de nuestra parroquia y sus ideas la convierten en una pieza fundamental de nuestro equipo.\nPorque conocer nuestra tierra es el primer paso para construir el futuro que merecemos",
       "confirmed": true
     },
     {
       "name": "Jhonathan Patricio Buestán Llapa",
       "role": "Cargo por confirmar",
-      "photo": "",
-      "bio": "Jhonathan Patricio Buestán Llapa forma parte del equipo. Su cargo, trayectoria y experiencia están pendientes de confirmar.",
+      "photo": "/uploads/cd0854f5-9358-4d7c-91d5-add1cd0a5492.jpg",
+      "bio": "Jhonathan Patricio Buestán Llapa.",
       "confirmed": true
     }
   ],
