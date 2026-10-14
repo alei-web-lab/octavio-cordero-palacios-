@@ -71,6 +71,13 @@ export const defaultContent = {
       "photo": "",
       "confirmed": true,
       "bio": "Sandra Estefania Puma Cantos forma parte del equipo con el rol de secretaria. Su trayectoria y experiencia se publicarán cuando estén confirmadas."
+    },
+    {
+      "name": "Jhonathan Patricio Buestán Llapa",
+      "role": "Cargo por confirmar",
+      "photo": "",
+      "bio": "Jhonathan Patricio Buestán Llapa forma parte del equipo. Su cargo, trayectoria y experiencia están pendientes de confirmar.",
+      "confirmed": true
     }
   ],
   "plan": [
@@ -202,7 +209,7 @@ export const defaultContent = {
   "faqs": [
     {
       "question": "¿Qué información encontraré en esta página?",
-      "answer": "Información sobre Renovación 63, su equipo de cuatro personas, el plan de trabajo y los canales de contacto. Los datos que aún no se han confirmado se señalan expresamente."
+      "answer": "Información sobre Renovación 63, su equipo de cinco personas, el plan de trabajo y los canales de contacto. Los datos que aún no se han confirmado se señalan expresamente."
     },
     {
       "question": "¿Dónde puedo consultar el plan de trabajo?",
@@ -290,7 +297,7 @@ export const defaultContent = {
     "guidePlan": "Plan de trabajo",
     "guideContact": "Canales de contacto",
     "movementTitle": "Un espacio para\nconocer",
-    "movementLead": "Renovación 63 reúne a un equipo de cuatro personas que aspiran a integrar el GAD parroquial de Octavio Cordero Palacios.",
+    "movementLead": "Renovación 63 reúne a un equipo de cinco personas que aspiran a integrar el GAD parroquial de Octavio Cordero Palacios.",
     "movementBody": "Este espacio reúne la información del movimiento: quiénes lo integran, qué propuestas presentan y cómo contactar al equipo.",
     "movementNote": "Estamos preparando el contenido oficial. Las fotografías del equipo, las biografías y los canales pendientes se identifican en cada sección.",
     "movementLink": "Consultar el plan",
@@ -304,7 +311,7 @@ export const defaultContent = {
     "planPrint": "Imprimir resumen",
     "planSearch": "Buscar en el plan",
     "teamTitle": "Conoce al equipo",
-    "teamDescription": "Cuatro personas. Sus nombres y roles, en un solo lugar.",
+    "teamDescription": "Cinco personas. Sus nombres y roles, en un solo lugar.",
     "teamNote": "Fotografías y trayectorias pendientes de incorporar.",
     "profileButton": "Ver perfil",
     "portraitPending": "Fotografía pendiente",

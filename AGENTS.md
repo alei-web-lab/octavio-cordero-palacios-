@@ -34,4 +34,4 @@ Los borradores y respaldos remotos de `.cms-data/` se versionan solo cifrados; n
 
 Tras cambios del backend ejecutar `node scripts/test-cms-online.mjs`; tras cambios compartidos con el CMS local ejecutar también `node scripts/test-cms.mjs`. Las pruebas usan datos aislados sin publicar contenido real. Comprobar el login y la API del despliegue exacto además de la página pública.
 
-Conservar la identidad Renovación 63, sus cuatro integrantes y las fotografías verificadas de Octavio Cordero Palacios. No reintroducir la fotografía de Busa. Mantener `preview: true` y `noindex, nofollow` mientras el contenido siga en preparación; no cambiar ese estado solamente por estar alojado en Vercel.
+Conservar la identidad Renovación 63, sus cinco integrantes y las fotografías verificadas de Octavio Cordero Palacios. El usuario añadió únicamente a Jhonathan Patricio Buestán Llapa el 14 de octubre de 2026; su cargo y fotografía siguen pendientes de confirmar. No reintroducir la fotografía de Busa. Mantener `preview: true` y `noindex, nofollow` mientras el contenido siga en preparación; no cambiar ese estado solamente por estar alojado en Vercel.

@@ -28,7 +28,7 @@ assert.equal((await call('draft',{method:'PUT',body:payload(),token:''})).status
 assert.equal((await call('draft',{method:'PUT',body:payload(),from:'https://external.example'})).status,403);
 assert.equal((await call('draft',{method:'PUT',raw:'{invalid'})).status,400);
 assert.equal((await call('draft',{method:'PUT',raw:'null'})).status,400);
-const invalid=structuredClone(draft);invalid.members.pop();assert.equal((await call('publish',{method:'POST',body:{...payload(),content:invalid}})).status,422);
+const invalid=structuredClone(draft);invalid.members=invalid.members.slice(0,3);assert.equal((await call('publish',{method:'POST',body:{...payload(),content:invalid}})).status,422);
 let saved=await call('draft',{method:'PUT',body:payload()});assert.equal(saved.status,200);state=saved.data;
 assert.notEqual(JSON.parse(repo.read('public/content/site.json')).copy.heroDescription,draft.copy.heroDescription);
 assert.ok(!repo.read('.cms-data/draft.enc').toString().includes(draft.copy.heroDescription));
@@ -41,6 +41,7 @@ assert.equal(repo.read('unrelated.txt').toString(),'cambio ajeno más reciente',
 assert.equal((await call('publish',{method:'POST',body:stale})).status,409);
 const previous=repo.read('public/content/site.json').toString(),published=await call('publish',{method:'POST',body:payload()});assert.equal(published.status,200);state=published.data;
 assert.equal(JSON.parse(repo.read('public/content/site.json')).copy.heroDescription,draft.copy.heroDescription);
+assert.deepEqual(JSON.parse(repo.read('public/content/site.json')).members,draft.members,'Los cinco integrantes se conservan al publicar en línea');
 const backups=[...repo.files().keys()].filter(path=>path.startsWith('.cms-data/backups/'));assert.equal(backups.length,1);assert.deepEqual(decrypt(repo.read(backups[0]).toString(),env.CMS_SECRET,'backup').content,JSON.parse(previous));
 assert.equal((await call(`deployment?sha=${state.commit}`)).data.state,'pending');repo.status='success';assert.equal((await call(`deployment?sha=${state.commit}`)).data.state,'success');
 assert.equal((await call('deployment?sha=invalid')).status,422);

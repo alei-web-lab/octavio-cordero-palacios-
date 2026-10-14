@@ -203,6 +203,8 @@ La portada conserva frase/acciones a la izquierda y collage a la derecha; en mó
 
 La cabecera pública es sticky y el menú cambia hasta 950px. El CMS tiene cabecera fija de 82px, barra lateral de 232px y editor de hasta 1040px; a 1100px reduce la barra a 210px. Hasta 850px usa menú móvil, cabecera de 132px y campos en una columna. La vista previa es un panel lateral; en móvil ocupa hasta el ancho disponible.
 
+El equipo actual de cinco integrantes ocupa cinco columnas por encima de 1150px. Entre 951 y 1150px se distribuye en tres perfiles y dos centrados; hasta 950px conserva dos perfiles por fila con el quinto centrado. Los nombres mantienen su orden de lectura y el estilo anterior. Las copias anteriores de cuatro integrantes conservan su distribución original.
+
 ## Elevation & Depth
 
 Predominan capas tonales, bordes suaves y superposición real del collage. El formulario tiene sombra ambiental tenue; el visor modal y los paneles móviles del editor tienen sombras funcionales. No se añade sombra a cada bloque.

@@ -20,7 +20,7 @@ Público general que consulta información del movimiento, equipo y plan en Octa
 
 ## Product Purpose
 
-Presentar Renovación 63, sus cuatro integrantes, el plan facilitado y los canales oficiales, y permitir mantener esa información mediante un CMS.
+Presentar Renovación 63, sus cinco integrantes, el plan facilitado y los canales oficiales, y permitir mantener esa información mediante un CMS.
 
 ## Capabilities and Constraints
 
@@ -32,7 +32,7 @@ En línea, el mismo editor incorpora correo/contraseña, sesión de 8 horas, gua
 
 `src/content.js` valida el contenido, con `src/default-content.js` como respaldo. La vista previa obtiene el borrador autenticado y muestra un aviso si no puede cargarlo. Las imágenes recién subidas se resuelven a través del panel antes de que termine el despliegue de recursos. El editor se adapta a celular; se verificaron login, borrador, vista previa, publicación simulada y cierre de sesión, con anchos 320, 390, 768 y 1440px. Las pruebas del backend cubren acceso/CSRF, cifrado, respaldo, conflictos, conservación de cambios ajenos y cargas 8/12 MB sin servicios externos. Estas pruebas aisladas no sustituyen la activación y comprobación del acceso de producción.
 
-Se conservan cuatro integrantes y seis IDs de plan: `vialidad`, `produccion`, `inclusion`, `seguridad`, `ambiente` y `gestion`. El lector `public/documents/plan-de-trabajo.html` omite cédulas y nóminas; el original `docs/plan-original.docx` queda privado.
+Se conservan los cuatro integrantes originales y se añade a Jhonathan Patricio Buestán Llapa por indicación del usuario el 14 de octubre de 2026. Su cargo, fotografía y trayectoria siguen pendientes de confirmar. El esquema acepta las copias anteriores de cuatro personas y el equipo actual de cinco. Se mantienen los seis IDs de plan: `vialidad`, `produccion`, `inclusion`, `seguridad`, `ambiente` y `gestion`. El lector `public/documents/plan-de-trabajo.html` omite cédulas y nóminas; el original `docs/plan-original.docx` queda privado.
 
 Retratos, biografías verificadas y contactos siguen pendientes. Facebook, Instagram y TikTok son canales previstos; cada red pendiente conserva su indicador aunque otro contacto esté configurado. El formulario mantiene la descripción editable y añade aparte una guía operativa. Con correo configurado abre un borrador `mailto:` que la persona debe enviar. La página pública no recibe ni almacena consultas ni usa analítica o rastreo.
 
@@ -56,6 +56,7 @@ Nombres y roles facilitados por el usuario:
 - Claudio Milton Chuqui: vicepresidente.
 - Delia Isabel Pineda Tenen: tesorera.
 - Sandra Estefania Puma Cantos: secretaria.
+- Jhonathan Patricio Buestán Llapa: nombre confirmado; cargo pendiente.
 
 Dos fotografías verificadas de la parroquia: casas y quebrada por Martín Vasco, CC BY 4.0; Busa y variantes eliminados. Originales WebP y variantes de 480px en `public/images/ATTRIBUTION.md`. Marca con PNG/prompt. Sprite Tabler Outline: 38 símbolos, 22 fijados al commit anterior y 16 obtenidos de `main` oficial el 2026-10-04; procedencias separadas y MIT en el README de iconos.
 

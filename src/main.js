@@ -211,6 +211,7 @@ if (content.planProvided) {
 }
 
 // Perfiles sin personas o testimonios ficticios.
+$('#team-grid').dataset.memberCount = String(content.members.length);
 $('#team-grid').innerHTML = content.members.map(member => `<article class="team-member"><div class="member-portrait">${member.photo ? `<img src="${safeUrl(member.photo, true)}" alt="${escape(member.name)}" width="400" height="500" loading="lazy" />` : `<div class="portrait-placeholder"><span class="member-initials" aria-hidden="true">${escape(initials(member.name))}</span><span>${escape(content.copy.portraitPending)}</span></div>`}<span class="member-role">${escape(member.role)}</span></div><div class="member-info"><h3>${escape(member.name)}</h3>${content.preview && !member.photo ? `<p>${escape(content.copy.profilePending)}</p>` : ''}<details><summary>${disclosure(content.copy.profileButton)}</summary><p>${escape(member.bio)}</p></details></div></article>`).join('');
 
 // Galería nativa: deslizable sin una biblioteca adicional.

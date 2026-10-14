@@ -6,6 +6,7 @@ import {fileURLToPath} from 'node:url';
 import {randomUUID} from 'node:crypto';
 import {createCmsApi} from './cms-api.mjs';
 import {defaultContent} from '../src/default-content.js';
+import {validateContent} from '../src/content-schema.js';
 const root=await realpath(fileURLToPath(new URL('..',import.meta.url)));
 const fixture=path.join(root,`.cms-test-${randomUUID()}`);
 await mkdir(path.join(fixture,'public','content'),{recursive:true});
@@ -30,8 +31,10 @@ try {
   assert.equal((await call('/api/cms/state','GET',undefined,undefined,{'Sec-Fetch-Site':'cross-site'})).status,403,'Lectura entre sitios rechazada');
   const invalid=structuredClone(draft);invalid.photos[0].src='/images/azuay-paisaje.webp';
   assert.equal((await call('/api/cms/draft','PUT',{...payload(),content:invalid},state.csrfToken)).status,422,'Busa no debe aceptarse');
-  invalid.photos=draft.photos;invalid.members.pop();
+  invalid.photos=draft.photos;invalid.members=invalid.members.slice(0,3);
   assert.equal((await call('/api/cms/draft','PUT',{...payload(),content:invalid},state.csrfToken)).status,422,'Equipo incompleto rechazado');
+  const legacy=structuredClone(draft);legacy.members=legacy.members.slice(0,4);assert.deepEqual(validateContent(legacy),[],'Las copias anteriores de cuatro integrantes siguen siendo válidas');
+  const excessive=structuredClone(draft);excessive.members.push({...draft.members[0]});assert.equal((await call('/api/cms/draft','PUT',{...payload(),content:excessive},state.csrfToken)).status,422,'No se admiten integrantes adicionales fuera del equipo autorizado');
   const saved=await call('/api/cms/draft','PUT',payload(),state.csrfToken);assert.equal(saved.status,200);state=saved.data;
   assert.equal(JSON.parse(await readFile(path.join(fixture,'public','content','site.json'),'utf8')).copy.heroDescription,defaultContent.copy.heroDescription,'Guardar borrador no debe cambiar el sitio');
   handle=createCmsApi(fixture,port);state=(await call('/api/cms/state')).data;
@@ -39,6 +42,7 @@ try {
   const stale=payload();
   const published=await call('/api/cms/publish','POST',payload(),state.csrfToken);assert.equal(published.status,200);state=published.data;
   assert.equal(JSON.parse(await readFile(path.join(fixture,'public','content','site.json'),'utf8')).copy.heroDescription,draft.copy.heroDescription,'Aplicar debe persistir la versión visible');
+  assert.deepEqual(JSON.parse(await readFile(path.join(fixture,'public','content','site.json'),'utf8')).members,draft.members,'El CMS conserva los cinco perfiles al publicar');
   assert.equal((await readdir(path.join(fixture,'cms','backups'))).length,1,'Debe conservarse respaldo');
   assert.equal((await call('/api/cms/publish','POST',stale,state.csrfToken)).status,409,'Revisión anterior rechazada');
   const fakeImage=Buffer.from('<html>archivo falso</html>').toString('base64');
