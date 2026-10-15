@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-15",
+  "title": "Amor por Octavio Cordero Palacios",
+  "file": "cierre-amor-por-octavio-cordero-palacios-4s.mp4",
+  "bytes": 3041353,
+  "sha256": "e300cfb5b9c704d6a7602aa8e2a430e43b40d1d7ce34c93c6d895ff845322c71",
+  "video": {
+    "duration": 4,
+    "width": 1080,
+    "height": 1920,
+    "codec": "avc",
+    "audioTracks": 0,
+    "packetStats": {
+      "packetCount": 120,
+      "averagePacketRate": 30,
+      "averageBitrate": 6080254
+    }
+  },
+  "frames": 120,
+  "fps": 30,
+  "sourcePhotoSha256": "837d571bc85e7307356ec900ea352db74d151ce04f3d01e30a5c94c3d3722b33",
+  "originalPhoto": "Imagen suministrada por el usuario; copia JPEG idéntica, fotografía completa y fija, sin filtros, retoque ni generación de personas o paisaje.",
+  "type": "Frase completa en letra manuscrita de pincel Kaushan Script, naranja y verde de campaña, con contorno marfil fino para contraste sobre el cielo. Fuente SIL OFL obtenida de google/fonts.",
+  "animation": "Remotion 4.0.530, animación por fotograma. Entrada de letras durante los primeros 1,25 s; lectura estable hasta el segundo 4. Foto visible desde el primer fotograma y sin fundido final.",
+  "export": "Fotogramas Remotion capturados en Chrome; codificación nativa H.264 con WebCodecs y contenedor MP4 con Mediabunny (fastStart).",
+  "checks": {
+    "photoBytesIdentical": true,
+    "peopleAndLowerLandscapePixelsUnchangedAcrossSampledRenderFrames": true,
+    "originalAspectRatioRetained": true,
+    "allFivePeopleVisible": true,
+    "all120FramesEncoded": true,
+    "noAudio": true
+  }
+}

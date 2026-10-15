@@ -1,0 +1,11 @@
+CIERRE · AMOR POR OCTAVIO CORDERO PALACIOS
+
+Archivo: cierre-amor-por-octavio-cordero-palacios-4s.mp4
+Duración: 4 segundos exactos.
+Formato: MP4 H.264, 1080 x 1920 px (9:16), 30 fps. Sin audio.
+
+Añade este clip al final de tu video o reel. Conserva la música de tu edición si quieres acompañarlo. No aceleres ni recortes el clip para mantener sus cuatro segundos.
+
+La foto se conserva completa, fija y sin retoque. Se anima exclusivamente la frase manuscrita en el cielo, sin cubrir los rostros. La foto de origen es de 720 x 1280 px; se escala proporcionalmente a 1080 x 1920 para el formato de entrega. La codificación del MP4 introduce la compresión normal de video. No se han añadido movimientos a las personas ni se ha usado generación de imagen o video.
+
+Autoría editable: motion/src/Outro.tsx, composición AmorPorOctavioOutro. Letra de pincel Kaushan Script (SIL OFL), con la paleta existente de la campaña.
