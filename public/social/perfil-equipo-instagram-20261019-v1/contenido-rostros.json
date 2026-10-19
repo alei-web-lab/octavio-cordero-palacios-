@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-19",
+  "file": "perfil-rostros-ampliados-1080.png",
+  "size": [
+    1080,
+    1080
+  ],
+  "method": "Composición directa con cinco recortes de la imagen adjunta; reescalado proporcional Lanczos, sin IA generativa ni retoque facial",
+  "sourceSha256": "13279f8a3a8e99169874320b1d61560a24c84fa46e850eb9beede9b2f4f950fd",
+  "portraits": [
+    {
+      "name": "izquierda",
+      "crop": {
+        "left": 220,
+        "top": 490,
+        "width": 150,
+        "height": 150
+      },
+      "center": [
+        285,
+        592
+      ]
+    },
+    {
+      "name": "segunda",
+      "crop": {
+        "left": 420,
+        "top": 538,
+        "width": 140,
+        "height": 140
+      },
+      "center": [
+        540,
+        592
+      ]
+    },
+    {
+      "name": "centro",
+      "crop": {
+        "left": 595,
+        "top": 538,
+        "width": 140,
+        "height": 140
+      },
+      "center": [
+        795,
+        592
+      ]
+    },
+    {
+      "name": "cuarta",
+      "crop": {
+        "left": 785,
+        "top": 559,
+        "width": 140,
+        "height": 140
+      },
+      "center": [
+        410,
+        855
+      ]
+    },
+    {
+      "name": "derecha",
+      "crop": {
+        "left": 970,
+        "top": 518,
+        "width": 140,
+        "height": 140
+      },
+      "center": [
+        670,
+        855
+      ]
+    }
+  ],
+  "faceTreatment": "Solo recorte, reescalado proporcional y marco circular; mismos rasgos, expresiones, piel y cabello de la imagen adjunta",
+  "verification": "Cinco regiones faciales comparadas píxel a píxel con sus recortes reescalados, sin diferencias",
+  "sha256": "7518aa9c391ab2c09ab9ca2e7969e616383a4a050b4521aed127fe1405675b5e",
+  "circularPreview": "vista-rostros-circular-320.png",
+  "socialAccountPublishing": false,
+  "alt": "Cinco retratos originales de la imagen adjunta, distribuidos en tres círculos superiores y dos inferiores, con marco naranja. En la parte superior, Amor por Octavio Cordero Palacios en naranja sobre marfil."
+}

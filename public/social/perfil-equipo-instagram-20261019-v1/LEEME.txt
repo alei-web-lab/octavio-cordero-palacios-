@@ -1,0 +1,20 @@
+FOTO DE PERFIL · AMOR POR OCTAVIO CORDERO PALACIOS
+19 de octubre de 2026
+
+ARCHIVO PARA SUBIR
+perfil-rostros-ampliados-1080.png — 1080 × 1080 px. Cinco retratos ampliados, con el lema completo y margen circular. Preparado para que los rostros se distingan mejor a tamaño pequeño.
+
+ALTERNATIVA CON LA FOTO DE GRUPO
+perfil-instagram-1080.png — 1080 × 1080 px. Conserva la escena del grupo, con un encuadre más cercano y el lema arriba.
+
+VISTAS DE COMPROBACIÓN
+vista-rostros-circular-320.png y vista-circular-320.png muestran el recorte circular. Para subir, usa uno de los archivos de 1080 px, no estas vistas pequeñas.
+
+ROSTROS ORIGINALES DE LA IMAGEN ADJUNTA
+Se trabajó directamente con los píxeles de la imagen que adjuntó el usuario. La composición final no usa generación de caras, retoques de piel, cambios de expresión ni reconstrucción facial. En la opción de retratos se recortan y amplían proporcionalmente las cinco caras; en la opción de grupo la fotografía permanece a escala 1:1. Se compararon cinco zonas faciales de cada composición contra su fuente correspondiente sin diferencias de píxeles.
+
+La tipografía reutiliza los contornos de la marca raster existente, en naranja #FF5D15 sobre marfil #FFFAF6. Se comprobó el encuadre circular y una vista de 150 px. La nitidez procede de la fotografía adjunta; no se inventan detalles faciales.
+
+Proceso: composición raster directa con Sharp, máscaras geométricas y recortes proporcionales. La imagen adjunta y los scripts de composición se conservan como evidencia local privada, fuera del build y de Git. Detalles, medidas y hashes en contenido.json y contenido-rostros.json.
+
+No se ha cambiado ninguna foto de perfil ni publicado en una cuenta de Instagram.

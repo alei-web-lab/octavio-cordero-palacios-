@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "file": "perfil-instagram-1080.png",
+  "size": [
+    1080,
+    1080
+  ],
+  "purpose": "Imagen de perfil con cinco integrantes y lema completo, preparada para recorte circular",
+  "method": "Composición directa con recortes raster de la imagen adjunta y marca existente, sin IA generativa en el resultado final",
+  "sourceSha256": "13279f8a3a8e99169874320b1d61560a24c84fa46e850eb9beede9b2f4f950fd",
+  "sourceCrop": {
+    "left": 120,
+    "top": 470,
+    "width": 1080,
+    "height": 620
+  },
+  "photoPlacement": {
+    "left": 0,
+    "top": 450,
+    "scale": 1
+  },
+  "faceTreatment": "Sin regeneración, suavizado, filtros, cambio de rasgos ni reescalado; verificación exacta de píxeles en cinco zonas faciales",
+  "lettering": "Contornos del bloque inferior de campaign-wordmark-light.png, naranja #FF5D15",
+  "circularPreview": "vista-circular-320.png",
+  "facePixelChecks": [
+    {
+      "name": "izquierda",
+      "match": true
+    },
+    {
+      "name": "segunda",
+      "match": true
+    },
+    {
+      "name": "centro",
+      "match": true
+    },
+    {
+      "name": "cuarta",
+      "match": true
+    },
+    {
+      "name": "derecha",
+      "match": true
+    }
+  ],
+  "sha256": "5a08196ad26922ef77dacb70a6c2c55e21c65dfe4b4072904d3bad6f7b472c7f",
+  "socialAccountPublishing": false,
+  "alt": "Cinco integrantes de la campaña en un encuadre cercano, con sus rostros originales de la imagen adjunta. Sobre ellos, Amor por Octavio Cordero Palacios en letras naranja; marco circular naranja y fondo marfil."
+}
