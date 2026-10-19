@@ -1,0 +1,20 @@
+OCTAVINO · MASCOTA DE LA CAMPAÑA
+Amor por Octavio Cordero Palacios
+19 de octubre de 2026
+
+Tres PNG con fondo transparente:
+01-cuy-camisa.png — Pose frontal, con camisa blanca y detalles naranjas.
+02-cuy-saludando.png — El mismo personaje saludando, con la misma camisa.
+03-octavino-poncho-naranja.png — Poncho naranja con el nombre OCTAVINO en blanco.
+
+Las camisas llevan el texto AMOR POR / OCTAVIO CORDERO / PALACIOS. Se utiliza como referencia el bloque inferior de letras gruesas de la marca existente. El poncho lleva únicamente el nombre OCTAVINO, según la petición posterior del usuario.
+
+Para publicar, descomprime el ZIP y elige un PNG. Los archivos tienen transparencia real y pueden colocarse sobre fotografías, fondos o diseños. Conserva la proporción y evita tapar el texto de la prenda.
+
+Guía de continuidad: cuy de pelaje caramelo/castaño y blanco, franja blanca en la cara, hocico blanco, nariz rosada, ojos oscuros brillantes, orejas pequeñas, cuerpo redondeado, patas de cuy y sin cola. Mantener los rasgos y el acabado 3D cálido de la primera imagen como referencia para futuras poses. Camisa blanca con cuello y puños naranja. Poncho naranja con ribetes discretos blancos y verde oscuro.
+
+Colores de referencia: naranja #FF5D15, blanco #FFFFFF, marfil #FFFAF6 y verde oscuro #213328.
+
+Método: Image Gen integrado, con imágenes del cuy facilitadas por el usuario y la tipografía de campaña como referencias. Las poses 02 y 03 se generan a partir del personaje de la imagen 01 para mantener su identidad. Cada pose es una generación independiente.
+
+Los prompts exactos están en 01-prompt.txt, 02-prompt.txt y 03-prompt.txt. Medidas y revisión en contenido.json. Los originales del usuario permanecen sin cambios y no están incluidos en este paquete. No se ha publicado en ninguna cuenta de redes sociales.

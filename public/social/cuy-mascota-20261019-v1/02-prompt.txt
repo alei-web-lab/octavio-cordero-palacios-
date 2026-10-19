@@ -1,0 +1,16 @@
+Use case: identity-preserve
+Asset type: one transparent full-body 3D mascot cutout, vertical portrait approximately 4:5.
+Primary request: Create a friendly waving-pose variant of EXACTLY THE SAME guinea pig/cuy character shown in input image 1.
+Input images: Image 1 is the canonical character and exact identity/style/clothing reference. Image 2 is a supporting typography reference ONLY for the compact ultrabold lower brand block. Do not include its script words.
+IDENTITY INVARIANTS: Preserve the canonical guinea pig's exact face, caramel-orange and white fur pattern, fur texture, glossy dark eyes, small rounded ears, pink nose, round cheeks, friendly subtle smile, chubby body proportions, short animal legs, white-tipped feet and overall warm realistic-fur 3D finish. This must read immediately as the very same mascot, not a different animal or redesigned character.
+CLOTHING INVARIANTS: Same white short-sleeved polo shirt, same bright orange #FF5D15 collar and sleeve cuffs. Keep the polo front facing the viewer and its print completely readable.
+POSE: The character stands upright facing the viewer, with ONE front animal paw raised beside its head in a friendly wave. The raised paw stays outside the silhouette of its face and away from the shirt lettering. The other front animal paw rests naturally at its side. Exactly FOUR limbs total: two front paws and two hind legs/feet, no duplicated limb, no human hands or fingers. No tail.
+Text (verbatim, chest print only):
+"AMOR POR"
+"OCTAVIO CORDERO"
+"PALACIOS"
+Typography: orange #FF5D15, compact ultrabold sans-serif block matching the lower words of reference image 2, like the canonical polo. AMOR large and POR smaller on the same first line; OCTAVIO CORDERO on the second line; PALACIOS large on the third line. These are the ONLY words anywhere in the image. In particular do not include "Se siente".
+Composition: Single mascot only, entire body and all paws fully visible, approximately 8% clear margin around every extremity, centered balanced portrait framing. High-detail soft fur and clean clothing. Soft warm studio lighting with natural dimensional shading on the character itself.
+Background: TRUE transparent alpha background, no backdrop, no white square, no checkerboard drawn into the image, no ground, no floor, no opaque shadow plane. The image must be an isolated RGBA cutout.
+Avoid: grid, collage, multiple views, props, hats, shoes, sunglasses, extra words, numbers, URLs, watermarks, environment, human hands, extra limbs, tail, cropped ears, cropped feet, altered facial identity, changed outfit, blurred or misspelled print.
+Produce ONE finished image.

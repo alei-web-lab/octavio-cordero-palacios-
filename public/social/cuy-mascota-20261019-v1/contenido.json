@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-19",
+  "name": "Octavino",
+  "role": "Mascota representativa de la campaña, solicitada por el usuario",
+  "brand": "Amor por Octavio Cordero Palacios",
+  "method": "Image Gen integrado, una generación independiente por pose",
+  "sourceReferences": ["descargar.jpg", "descargar (1).jpg"],
+  "letteringReference": "brand/campaign-wordmark-light.png, solo bloque inferior de mayúsculas",
+  "paletteReferences": {
+    "orange": "#FF5D15",
+    "white": "#FFFFFF",
+    "ink": "#213328",
+    "paper": "#FFFAF6"
+  },
+  "character": {
+    "species": "cuy",
+    "fur": "caramelo/castaño y blanco, franja blanca facial y hocico blanco",
+    "face": "ojos oscuros brillantes, orejas pequeñas y nariz rosada",
+    "body": "redondeado, erguido, cuatro extremidades y sin cola",
+    "style": "mascota 3D cálida con pelaje detallado",
+    "canonicalImage": "01-cuy-camisa.png"
+  },
+  "images": [
+    {
+      "file": "01-cuy-camisa.png",
+      "size": [1122, 1402],
+      "transparent": true,
+      "outfit": "Camisa polo blanca con cuello y puños naranja",
+      "text": ["AMOR POR", "OCTAVIO CORDERO", "PALACIOS"],
+      "pose": "frontal, patas junto a las caderas",
+      "prompt": "01-prompt.txt",
+      "sha256": "95b8cf8054a24e2c7bf418a08ca0531a816108809c844251424c1d4545f5e8e5",
+      "alt": "Octavino, un cuy de pelaje caramelo y blanco, sonríe de frente con una camisa blanca de cuello y puños naranja que dice Amor por Octavio Cordero Palacios. Fondo transparente."
+    },
+    {
+      "file": "02-cuy-saludando.png",
+      "size": [1122, 1402],
+      "transparent": true,
+      "outfit": "La misma camisa polo blanca con cuello y puños naranja",
+      "text": ["AMOR POR", "OCTAVIO CORDERO", "PALACIOS"],
+      "pose": "saludando con una pata elevada",
+      "prompt": "02-prompt.txt",
+      "sha256": "60ccc2894d58174fd7c16b9d031536697d34c2686ffe8bd5febbc48ed658de0f",
+      "alt": "Octavino saluda levantando una pata. Lleva una camisa blanca con detalles naranja y el texto Amor por Octavio Cordero Palacios. Fondo transparente."
+    },
+    {
+      "file": "03-octavino-poncho-naranja.png",
+      "size": [1122, 1402],
+      "transparent": true,
+      "outfit": "Poncho naranja con ribetes blancos y verde oscuro, flecos y cuello en V",
+      "text": ["OCTAVINO"],
+      "pose": "brazos abiertos",
+      "prompt": "03-prompt.txt",
+      "sha256": "96f741d2c0e2c87b81ee891ec0bee510eb11e1ac423e066c890b964bda53f4cb",
+      "alt": "Octavino abre los brazos con un poncho naranja de flecos y ribetes blancos y verde oscuro. El pecho dice OCTAVINO en letras blancas grandes. Fondo transparente."
+    }
+  ],
+  "review": {
+    "visualInspection": true,
+    "independentConsistencyReview": true,
+    "exactRequestedText": true,
+    "realAlphaTransparencyVerified": true,
+    "completeBodies": true,
+    "note": "La pose con poncho tiene márgenes laterales estrechos; ambas manos están completas."
+  },
+  "socialAccountPublishing": false
+}
