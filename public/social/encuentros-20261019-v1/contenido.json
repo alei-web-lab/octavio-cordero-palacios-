@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "brand": "Amor por Octavio Cordero Palacios",
+  "method": "Image Gen integrado; una generación por pieza",
+  "photoTreatment": "Composición completa generada con IA a partir de fotografías originales como referencias. Puede reinterpretar detalles; no conserva necesariamente los píxeles originales.",
+  "wordmarkReference": "brand/campaign-wordmark-light.png",
+  "socialAccountPublishing": false,
+  "posts": [
+    {
+      "file": "01-compartir-nos-acerca.png",
+      "size": [1092, 1440],
+      "eyebrow": "ENCUENTROS QUE SUMAN",
+      "headline": "Compartir nos acerca.",
+      "support": "Seguimos construyendo comunidad.",
+      "sourceFile": "WhatsApp Image 2026-10-19 at 1.00.32 PM (1).jpeg",
+      "sourceSha256": "b3f1b53347142349f53bea9cc16d050c042e58f022659eee69de18ef1e5f5443",
+      "prompt": "01-prompt.txt",
+      "alt": "Diseño generado con IA a partir de una foto de un grupo reunido en una sala, con un perro pequeño. Texto: Compartir nos acerca. Seguimos construyendo comunidad. Firma: Se siente Amor por Octavio Cordero Palacios."
+    },
+    {
+      "file": "02-las-ideas-nacen-al-conversar.png",
+      "size": [1122, 1402],
+      "eyebrow": "ESCUCHAR Y COMPARTIR",
+      "headline": "Las ideas nacen al conversar.",
+      "support": "Cada conversación abre nuevos caminos.",
+      "sourceFile": "WhatsApp Image 2026-10-19 at 1.00.56 PM.jpeg",
+      "sourceSha256": "b78bc635cd5fc1c856719df531809048bd278a15f382fe8a7c3ea52f58ef8220",
+      "prompt": "02-prompt.txt",
+      "alt": "Diseño generado con IA a partir de una foto de personas conversando alrededor de una mesa. Texto: Las ideas nacen al conversar. Cada conversación abre nuevos caminos. Firma: Se siente Amor por Octavio Cordero Palacios."
+    },
+    {
+      "file": "03-nuestra-cultura-nos-une.png",
+      "size": [1122, 1402],
+      "eyebrow": "TRADICIONES QUE COMPARTIMOS",
+      "headline": "Nuestra cultura nos une.",
+      "support": "Celebramos lo que somos.",
+      "sourceFile": "WhatsApp Image 2026-10-19 at 1.00.30 PM.jpeg",
+      "sourceSha256": "dea9aa52d30bea377bc46ea9df29e5ca8902dad35e96f7c475356c85a5f50736",
+      "prompt": "03-prompt.txt",
+      "alt": "Diseño generado con IA a partir de una foto de bailarinas con sombreros y mantas frente a un escenario al aire libre. Texto: Nuestra cultura nos une. Celebramos lo que somos. Firma: Se siente Amor por Octavio Cordero Palacios."
+    }
+  ],
+  "review": {
+    "visualInspection": true,
+    "copyMatchesPrompts": true,
+    "noCandidateNamesOrOfficesAdded": true,
+    "originalPhotosUnmodified": true,
+    "renderedPhotosAreGenerative": true
+  }
+}

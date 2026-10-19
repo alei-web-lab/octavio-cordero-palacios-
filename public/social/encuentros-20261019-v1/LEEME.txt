@@ -1,0 +1,15 @@
+TRES DISEÑOS PARA REDES SOCIALES
+Amor por Octavio Cordero Palacios · 19 de octubre de 2026
+
+Archivos finales PNG:
+01-compartir-nos-acerca.png — 1092 × 1440 px.
+02-las-ideas-nacen-al-conversar.png — 1122 × 1402 px.
+03-nuestra-cultura-nos-une.png — 1122 × 1402 px.
+
+Cada PNG es una publicación independiente. Descomprime el ZIP y selecciona el PNG que quieras subir. Al ajustar el encuadre en la red social, conserva el texto y la firma completos.
+
+Método: Image Gen integrado, con fotografías originales facilitadas por el usuario y la firma gráfica existente como referencias. La composición completa es generada con IA y puede reinterpretar detalles fotográficos; estos PNG no son copias documentales sin retoque. Los archivos originales permanecen aparte y sin cambios.
+
+Los textos no atribuyen nombres, cargos, organización del evento ni apoyo político a las personas fotografiadas. No se ha publicado en ninguna cuenta de redes sociales.
+
+Los prompts exactos están en 01-prompt.txt, 02-prompt.txt y 03-prompt.txt. La procedencia, medidas y revisión están en contenido.json.

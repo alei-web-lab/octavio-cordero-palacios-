@@ -1,0 +1,10 @@
+Use case: compositing
+Asset type: finished social media poster, portrait 4:5, ideally 1080x1350.
+Create ONE elegant editorial social post using the two supplied images. Image 1 is the authentic group photograph: use this exact photograph in a wide, clean rectangular image area; keep ALL people, faces, identities, clothing, poses, the room, furniture and small dog unchanged. Do not invent/repaint people or move anybody; do not extend the scene. Fit the full photograph horizontally so nobody is removed. Image 2 is the existing orange campaign signature artwork; use it modestly as a brand signature in the footer, keeping its exact words.
+Design: warm ivory #FFFAF6 base, very dark forest #213328 type, energetic orange #FF5D15 accents, high-end local-community editorial poster, restrained tactile paper texture. Huge condensed bold headline in upper third, clean generous margins of at least 6%. The real group photo is the middle visual anchor, around 45% of canvas height, framed with a fine orange border. Subtle small organic orange graphic flourish. Footer in ivory with the orange signature; no phone, handles, web URL, QR, voting instructions, candidate names or offices. No mockup, no collage of multiple posters, no watermark.
+Exact text, correct Spanish accents:
+Small upper eyebrow: "ENCUENTROS QUE SUMAN"
+Very large headline on two lines: "Compartir" / "nos acerca."
+Smaller supporting line: "Seguimos construyendo comunidad."
+Footer uses image 2's lettering: "Se siente AMOR POR OCTAVIO CORDERO PALACIOS".
+Must be readable on a phone, photo and typography beautifully balanced. Single flat finished artwork, no surrounding scene.

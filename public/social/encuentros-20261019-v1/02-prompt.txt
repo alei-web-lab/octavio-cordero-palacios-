@@ -1,0 +1,12 @@
+Use case: compositing
+Asset type: final ready-to-upload social media editorial poster.
+Create ONE finished vertical 4:5 image, ideally 1080x1350 pixels. No mockup.
+Input image 1 is the authentic documentary photograph and must be directly placed as the photographic panel. Input image 2 is the supplied official orange campaign wordmark to directly reproduce as a modest footer signature.
+Composition: sophisticated warm editorial design, ivory #FFFAF6 background, dark forest-green #213328 type, restrained orange #FF5D15 accents, generous 6% outer margins. Strong typographic hierarchy. Small uppercase kicker near upper left, large bold condensed sans-serif headline above the photo, and a small support line. Lower portion contains a large real photograph panel and a modest supplied signature in the footer. Keep a clean, balanced composition with no ornamental clutter.
+Exact text, preserve accents and punctuation:
+Small kicker: "ESCUCHAR Y COMPARTIR"
+Large headline over two or three lines: "Las ideas nacen" / "al conversar."
+Support line: "Cada conversación abre nuevos caminos."
+Footer signature: use the supplied image 2 exactly, reading "Se Siente AMOR POR OCTAVIO CORDERO PALACIOS", at a moderate size.
+CRITICAL PHOTO INVARIANTS: Use the real source photograph, not a newly synthesized or reconstructed version. Preserve ALL people, including partly visible people at the edges and in the back, with the same faces, identities, clothing, gestures, seating, positions and natural photographic details. Preserve the room, meeting table, laptop, phones, cups, chairs and the small dog. Do not add, remove, retouch, beautify, regenerate or invent people or events. Only trim genuinely empty ceiling or empty floor as needed for layout, never cut faces or obscure people. Keep the complete width of the original photo. Retain its authentic candid character and natural color. Ensure all faces are visible and no text overlaps faces.
+Constraints: One flat finished poster, opaque background. Do not invent names, titles, office positions, election list numbers, dates, claims, achievements, URLs, phone numbers, QR codes or voting instructions. No extra text, no extra logos, no watermarks, no mockup. The supplied campaign wordmark is the only signature.
