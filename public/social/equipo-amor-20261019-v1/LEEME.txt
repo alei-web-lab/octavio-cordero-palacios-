@@ -1,0 +1,13 @@
+AMOR POR OCTAVIO CORDERO PALACIOS · FOTO DE EQUIPO
+19 de octubre de 2026
+
+Archivo final: amor-por-octavio-cordero-palacios-equipo.png
+Medidas: 1315 × 1196 píxeles, iguales a la referencia naranja.
+
+Edición realizada con Image Gen integrado a partir de la fotografía y la referencia tipográfica facilitadas por el usuario. El texto reproduce las tres líneas en mayúsculas y el naranja de la parte inferior de la referencia. Se omite «Se siente» porque la solicitud especifica «Amor por Octavio Cordero Palacios».
+
+Para adaptar la fotografía vertical al formato de referencia se amplió el paisaje lateral. La edición generativa puede reinterpretar detalles de la fotografía. Los dos archivos originales permanecen sin cambios.
+
+La salida generada medía 1315 × 1197 píxeles; se recortó únicamente la última fila inferior de un píxel para entregar la medida exacta, sin reescalar la imagen. Los prompts exactos están en prompt.txt.
+
+No se ha publicado en ninguna cuenta de redes sociales.

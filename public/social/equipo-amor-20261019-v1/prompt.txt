@@ -1,0 +1,11 @@
+Use case: compositing, identity-preserve
+Edit the supplied group photo (image 1) by adding lettering based on the orange branding reference (image 2).
+Deliver ONE finished photograph with overlaid orange lettering, on a canvas EXACTLY 1315 pixels wide by 1196 pixels high, matching image 2's dimensions and aspect ratio. This is a photo edit, not an illustrated poster or a mockup.
+Image 1 is the edit target. Preserve the original FIVE people exactly: same faces, expressions, hair, skin, bodies, clothes, orange scarves, stance, hands and relative positions. Keep all five visible, from their heads to their shoes, nobody cropped out, no added people. Preserve the authentic mountain landscape, grass, trees, red-roof house and sunset light. No beautification, face reconstruction, clothing alteration or invented people. Integrate the actual photograph rather than recreate its people.
+To adapt the portrait source photo to the wider 1315x1196 canvas, remove only some excess empty sky/grass if necessary, and extend only the landscape into the side margins. The central photographic group must remain unchanged. Keep recognizable faces clear.
+Image 2 is ONLY the typography and orange-color reference. It is not a white background to paste over the photo. Reproduce the heavy, tightly set, uppercase block lettering from the LOWER PART of image 2: the original AMOR POR / OCTAVIO CORDERO / PALACIOS words, with AMOR large, POR smaller beside it, OCTAVIO CORDERO on the second line, PALACIOS large on the third line. Match its letterforms, weight, arrangement, relative sizes and saturated orange very faithfully. Only extract/reproduce this requested text block; OMIT 'Se Siente'.
+The ONLY overlaid text is exactly:
+"AMOR POR"
+"OCTAVIO CORDERO"
+"PALACIOS"
+Center that three-line orange text block prominently in the upper sky area above all heads, at about 80-85% canvas width, retaining enough edge padding. Keep every word fully visible and every face unobscured. Readable confident typography; no extra words, candidate names, titles, list numbers, logos, marks, URLs or slogans. No white rectangle, no frame, no border, no extra decorative illustrations. The sunset sky is the text background. Single finished image.
