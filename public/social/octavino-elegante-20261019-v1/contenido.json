@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-19",
+  "name": "Octavino elegante",
+  "brand": "Amor por Octavio Cordero Palacios",
+  "file": "octavino-elegante.png",
+  "size": [1122, 1402],
+  "transparent": true,
+  "method": "Image Gen integrado; una generación",
+  "characterReference": "social/cuy-mascota-20261019-v1/01-cuy-camisa.png",
+  "letteringReference": "brand/campaign-wordmark-light.png, bloque inferior de mayúsculas",
+  "outfit": "Chaqueta naranja, solapas y pantalón verde oscuro, camisa blanca con letras naranja y corbatín verde oscuro",
+  "paletteReferences": {
+    "orange": "#FF5D15",
+    "white": "#FFFFFF",
+    "darkGreen": "#213328"
+  },
+  "text": ["AMOR POR", "OCTAVIO CORDERO", "PALACIOS"],
+  "prompt": "prompt.txt",
+  "sha256": "09ca2de770d9b2e164b9d8d77ceb2709ccdfc3732c210d1e2d9f1baf4460f932",
+  "alt": "Octavino, cuy de pelaje caramelo y blanco, viste chaqueta naranja con solapas verde oscuro, corbatín y pantalón verde oscuro. La camisa blanca dice Amor por Octavio Cordero Palacios en letras naranja grandes. Fondo transparente.",
+  "review": {
+    "visualInspection": true,
+    "characterMatchesReference": true,
+    "requestedTextCorrect": true,
+    "realAlphaTransparencyVerified": true,
+    "completeBody": true
+  },
+  "socialAccountPublishing": false
+}

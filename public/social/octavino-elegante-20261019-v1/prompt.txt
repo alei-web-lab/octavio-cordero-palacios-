@@ -1,0 +1,12 @@
+Use case: identity-preserve / compositing
+Create ONE elegant formalwear version of Octavino, the existing guinea-pig campaign mascot shown in reference image 1. Reference image 2 supplies the campaign typography and orange.
+Preserve the SAME CHARACTER: identical rounded guinea-pig face, caramel/chestnut and white fur pattern, broad white blaze, white muzzle, glossy dark eyes, little rounded ears, pink nose, short whiskers, stout body and small animal paws. Same friendly warm smile, same high-quality 3D render with detailed soft fur. Do not change species or replace him with a different guinea pig.
+Change only his outfit and pose into an ELEGANT yet friendly campaign representative. He wears a beautifully tailored ORANGE #FF5D15 formal jacket, crisp WHITE dress shirt, small DARK FOREST GREEN #213328 bow tie, subtle forest-green satin lapel accents, dark forest tailored trousers. The jacket is neatly open and held clear to both sides, framing a BROAD UNOBSTRUCTED WHITE SHIRT FRONT with the campaign lettering centered across the chest and upper belly. Show the original little guinea-pig feet below the trousers. No hat, cane, glasses, jewelry or props. Elegant refined materials and restrained detailing, not a costume overloaded with accessories.
+Print the following exact words on the WHITE SHIRT FRONT in campaign ORANGE #FF5D15, matching the heavy rounded ultrabold compact uppercase lettering from the LOWER PART of reference image 2, with AMOR large and POR smaller beside it:
+"AMOR POR"
+"OCTAVIO CORDERO"
+"PALACIOS"
+The full three-line phrase must be LARGE, CRISP, spelled perfectly, completely readable and unobstructed by jacket, paws, folds or bow tie. Reproduce the campaign typography faithfully, including the large last line. No 'Se siente', no 'Octavino', no other lettering, names, numbers, URLs or logos.
+Pose: front-facing, confident and poised, both paws relaxed at the outer sides of the body or lightly holding the jacket edges away from the printed shirt, without hiding the lettering. Four coherent limbs only, animal paws, no tail.
+Composition: single full-body character centered, portrait approximately 4:5, entire ears, paws and feet visible, generous 7% clear margin on every side. Soft flattering studio lighting, polished high-end mascot cutout.
+Genuinely TRANSPARENT RGBA background, no backdrop, no floor, no border, no mockup, no collage, no watermark. One finished image only.
